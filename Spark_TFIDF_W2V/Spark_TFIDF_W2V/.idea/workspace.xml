@@ -2,188 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abs_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/data/abstracts/abstracts_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/src/main/scala/PreProcData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/a_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abs_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstracts/abstracts_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/justMedWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BioportalAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Ontologies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Statistics/Spark WordCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -320,7 +141,7 @@
         <counts>
           <entry key="JAVA" value="1" />
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Scala" value="2" />
+          <entry key="Scala" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -332,7 +153,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="scala" value="2" />
+          <entry key="scala" value="4" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -348,20 +169,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/justMedWords.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Ontologies.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -378,8 +190,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="340">
+              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -481,7 +317,6 @@
         <option value="$PROJECT_DIR$/output/TF_IDF_Lemmas_Out" />
         <option value="$PROJECT_DIR$/src/main/scala/CoreNLP.java" />
         <option value="$PROJECT_DIR$/src/main/scala/NGRAM.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/W2V_NGRAM.scala" />
         <option value="$PROJECT_DIR$/data/test" />
         <option value="$PROJECT_DIR$/abstracts/3.txt" />
@@ -498,6 +333,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/Ontologies.scala" />
         <option value="$PROJECT_DIR$/abstracts/1.txt" />
         <option value="$PROJECT_DIR$/abstracts/2.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
       </list>
     </option>
   </component>
@@ -571,7 +407,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538449555463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538449797888" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Data Statistics/Spark WordCount" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -737,12 +573,12 @@
       <workItem from="1537895693872" duration="21788000" />
       <workItem from="1538263270620" duration="27159000" />
       <workItem from="1538366832932" duration="19514000" />
-      <workItem from="1538443914259" duration="3608000" />
+      <workItem from="1538443914259" duration="3850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76600000" />
+    <option name="totallyTimeSpent" value="76842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -758,7 +594,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.40411702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -881,13 +717,6 @@
     <entry file="file://$PROJECT_DIR$/abstracts/12.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/old/W2V_lemmas.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1211" />
@@ -914,13 +743,6 @@
     <entry file="file://$PROJECT_DIR$/output/old/W2V_MedWords.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3761" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/output/old/W2V_bigram.txt">
@@ -1013,16 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/TF_IDF_Bigram.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1063,8 +875,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/justMedWords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

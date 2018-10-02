@@ -23,7 +23,6 @@ object TF_IDF{
     //Reading the Text File
     val documents = sc.wholeTextFiles("abstracts") //WholeTextFiles
 
-
     val stopword = sc.textFile("data/stopwords.txt")
 
     val sw = stopword.flatMap(x => x.split(",")).map(_.trim)
@@ -31,7 +30,6 @@ object TF_IDF{
     val broadcastSW = sc.broadcast(sw.collect.toSet)
 
     //RDD of sequence of string
-    //Getting the Lemmatised form of the words in TextFile
     val documentseq = documents.map(f => {
       val splitString = f._2.split(" ").filter(!broadcastSW.value.contains(_))
       splitString.toSeq
