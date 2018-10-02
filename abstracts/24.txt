@@ -1,0 +1,9 @@
+Despite years of intensive research, breast cancer remains the leading cause of death in women worldwide.
+New technologies including oncolytic virus therapies, virus, and phage display are among the most powerful and advanced methods that have emerged in recent years with potential applications in cancer prevention and treatment.
+Oncolytic virus therapy is an interesting strategy for cancer treatment.
+Presently, a number of viruses from different virus families are under laboratory and clinical investigation as oncolytic therapeutics.
+Oncolytic viruses (OVs) have been shown to be able to induce and initiate a systemic antitumor immune response.
+The possibility of application of a multimodal therapy using a combination of the OV therapy with immune checkpoint inhibitors and cancer antigen vaccination holds a great promise in the future of cancer immunotherapy.
+Display of immunologic peptides on bacterial viruses (bacteriophages) is also increasingly being considered as a new and strong cancer vaccine delivery strategy. In phage display immunotherapy, a peptide or protein antigen is presented by genetic fusions to the phage coat proteins, and the phage construct formulation acts as a protective or preventive vaccine against cancer.
+In our laboratory, we have recently tested a few peptides (E75, AE37, and GP2) derived from HER2/neu proto-oncogene as vaccine delivery modalities for the treatment of TUBO breast cancer xenograft tumors of BALB/c mice.
+Here, in this paper, we discuss the latest advancements in the applications of OVs and bacterial viruses display systems as new and advanced modalities in cancer immune therapeutics.

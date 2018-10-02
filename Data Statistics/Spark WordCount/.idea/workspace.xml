@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa0a723-3760-4980-9d41-8f8f33ded7c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/abstracts/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abs_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstracts/abstracts_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PreProcData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/a_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abs_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/abstracts/abstracts_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/data/justMedWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/BioportalAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/Ontologies.scala" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SparkTransformationActions" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-713423836">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Just_Ids1" value="1" />
+          <entry key="_SUCCESS" value="2" />
+          <entry key="crc" value="1" />
+          <entry key="input" value="1" />
+          <entry key="java" value="2" />
+          <entry key="part-00000" value="57" />
+          <entry key="part-00001" value="29" />
+          <entry key="part-00002" value="18" />
+          <entry key="part-00003" value="11" />
+          <entry key="part-00004" value="1" />
+          <entry key="part-00005" value="1" />
+          <entry key="part-00007" value="1" />
+          <entry key="sbt" value="2" />
+          <entry key="scala" value="14" />
+          <entry key="test" value="1" />
+          <entry key="txt" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="174" />
+          <entry key="Scala" value="14" />
+          <entry key="sbt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="input" value="1" />
+          <entry key="java" value="721" />
+          <entry key="part-00003" value="1" />
+          <entry key="sbt" value="14" />
+          <entry key="scala" value="3900" />
+          <entry key="txt" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="721" />
+          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="Scala" value="3900" />
+          <entry key="sbt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="475178827">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PubMedIDs" value="2" />
+          <entry key="PubMedIDs-Titles(Reference)" value="1" />
+          <entry key="scala" value="4" />
+          <entry key="txt" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="96" />
+          <entry key="Scala" value="118" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="118" />
+          <entry key="txt" value="96" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1687058838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="PubMedIDs" value="2" />
+          <entry key="java" value="254" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="254" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="scala" value="4" />
+          <entry key="txt" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkPOSCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordNet.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkMedWords.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MRI,,</find>
+      <find>,,</find>
+      <find>data</find>
+      <find>is</find>
+      <find>probe</find>
+      <find>)</find>
+      <find>treatment options</find>
+      <find>n</find>
+      <find>listBuffer</find>
+      <find>j</find>
+      <find>J</find>
+      <find>got here!</find>
+      <find>:</find>
+      <find>.,</find>
+      <find>nn</find>
+      <find>drop</find>
+      <find>print</find>
+      <find>cancer</find>
+      <find>0</find>
+      <find>.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/abstractsSingleLine/10.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/9.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/8.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/7.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/6.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/5.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/4.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/3.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/2.txt" />
+        <option value="$PROJECT_DIR$/abstractsSingleLine/1.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaPOSCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamedEntityRecognizer.scala" />
+        <option value="$PROJECT_DIR$/input" />
+        <option value="$PROJECT_DIR$/outputWordCount/part-00003" />
+        <option value="$PROJECT_DIR$/src/main/scala/CoreNLP.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkPOSCount.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/data/PubMedIDs-Titles(Reference)" />
+        <option value="$PROJECT_DIR$/data/abstracts/11.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/12.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/13.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/14.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/15.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/20.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/19.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/18.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/17.txt" />
+        <option value="$PROJECT_DIR$/data/abstracts/16.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkWordNet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkMedWords.scala" />
+        <option value="$PROJECT_DIR$/data/PubMedIDs" />
+        <option value="$PROJECT_DIR$/src/main/scala/PreProcData.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="abstracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538449555514" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Retrive_abstract/Retrive_abstract/Retrive_abstract" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Data Statistics\Spark WordCount\output\test" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Data Statistics\Spark WordCount\data\abstracts" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\src\main\testing" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\abstractsFinal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Data Statistics\Spark WordCount\data\abstracts" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownLabs\Lab2\Data Statistics\Spark WordCount\data\temp" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\CS5560-Tutorial 4 Spark Source Code\Spark WordCount" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\CS5560-Tutorial 4 Spark Source Code\Spark WordCount\data\abstracts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SparkMedWords">
+    <configuration name="PreProcData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreProcData" />
+      <module name="SparkTransformationActions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkMedWords" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkMedWords" />
+      <module name="SparkTransformationActions" />
+      <option name="PROGRAM_PARAMETERS" value="BioConcept data/PubMedIDs PubTator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkPOSCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkPOSCount" />
+      <module name="SparkTransformationActions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkWordCount" />
+      <module name="SparkTransformationActions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkWordNet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkWordNet" />
+      <module name="SparkTransformationActions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SparkWordCount" />
+      <item itemvalue="Application.SparkPOSCount" />
+      <item itemvalue="Application.SparkWordNet" />
+      <item itemvalue="Application.SparkMedWords" />
+      <item itemvalue="Application.PreProcData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkMedWords" />
+        <item itemvalue="Application.SparkWordNet" />
+        <item itemvalue="Application.SparkPOSCount" />
+        <item itemvalue="Application.SparkWordCount" />
+        <item itemvalue="Application.PreProcData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkTransformationActions" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-wordcount [file:/C:/Users/Gregory/Desktop/Official/UMKC/CS5560/CS5560-Tutorial%204%20Spark%20Source%20Code/Spark%20WordCount/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-wordcount-build [file:/C:/Users/Gregory/Desktop/Official/UMKC/CS5560/CS5560-Tutorial%204%20Spark%20Source%20Code/Spark%20WordCount/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4611565523358" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3916893051" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3066353247" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="379200330" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa0a723-3760-4980-9d41-8f8f33ded7c3" name="Default Changelist" comment="" />
+      <created>1536867732491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536867732491</updated>
+      <workItem from="1536867734916" duration="119000" />
+      <workItem from="1536867949858" duration="4078000" />
+      <workItem from="1537148897399" duration="506000" />
+      <workItem from="1537196032544" duration="7036000" />
+      <workItem from="1537460254300" duration="9468000" />
+      <workItem from="1537475626615" duration="982000" />
+      <workItem from="1537730823446" duration="598000" />
+      <workItem from="1537739486077" duration="4944000" />
+      <workItem from="1537745548515" duration="501000" />
+      <workItem from="1537746079890" duration="15450000" />
+      <workItem from="1537773541900" duration="99000" />
+      <workItem from="1537829945391" duration="2962000" />
+      <workItem from="1538364236248" duration="4236000" />
+      <workItem from="1538445423128" duration="3978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54957000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2979415" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sc</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wc</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OutputWordCount/part-00001" />
+    <entry file="file://$PROJECT_DIR$/OutputWordCount/part-00002" />
+    <entry file="file://$PROJECT_DIR$/OutputWordCount/part-00000" />
+    <entry file="file://$PROJECT_DIR$/OutputWordNet/part-00000" />
+    <entry file="file://$PROJECT_DIR$/OutputMedWords/part-00002" />
+    <entry file="file://$PROJECT_DIR$/OutputMedWords/part-00003" />
+    <entry file="file://$PROJECT_DIR$/OutputMedWords/part-00001" />
+    <entry file="file://$PROJECT_DIR$/OutputMedWords/part-00000" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/PubMedIDs-Titles(Reference)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1126" selection-start-column="1126" selection-end-column="1126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="96" selection-start-column="96" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="102" selection-start-column="102" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="223" selection-start-column="223" selection-end-column="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_18.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_17.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="107" selection-start-column="107" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="194" selection-start-column="194" selection-end-column="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="178" selection-start-column="178" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_14.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="171" selection-start-column="171" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="165" selection-start-column="165" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/test/wordNetTotal.txt" />
+    <entry file="file://$PROJECT_DIR$/data/PubMedIDs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abs_6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="138" selection-start-column="137" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/abs_5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_34.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/abs_8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PreProcData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_14.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_23.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_26.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abstracts_13.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/a_5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts/abs_10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/justMedWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="3" lean-forward="true" selection-start-line="122" selection-start-column="3" selection-end-line="122" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/medWordsTotal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="193" column="9" lean-forward="true" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/posTotal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/wcTotal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="3950" column="9" lean-forward="true" selection-start-line="3950" selection-start-column="9" selection-end-line="3950" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/wordNetTotal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1181">
+          <caret line="1863" column="13" lean-forward="true" selection-start-line="1863" selection-start-column="13" selection-end-line="1863" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkPOSCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkMedWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordNet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

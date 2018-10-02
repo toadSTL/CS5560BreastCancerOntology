@@ -1,0 +1,4 @@
+To describe the mortality experience of women who die of breast cancer in the 20-year period post-diagnosis using various metrics, including annual mortality rates, Kaplan-Meier survival curves and time-to-death histograms.
+We generated three visual representations of SEER-based and hospital-based breast cancer patient cohorts using three different metrics of mortality.
+The greatest impact of most prognostic factors was on the probability of latent metastases present after treatment, but for some factors the primary impact was on the time to death for those women with metastases.
+The use of time-to-death statistics to display mortality benefits for treated versus untreated women helps facilitate the distinction between treatments which increase the likelihood of cure and treatments that delay cancer growth.

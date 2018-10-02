@@ -1,0 +1,88 @@
+<eSearchResult>
+    <Count>313752</Count>
+    <RetMax>10</RetMax>
+    <RetStart>0</RetStart>
+    <IdList>
+        <Id>30184043</Id>
+        <Id>30183926</Id>
+        <Id>30183693</Id>
+        <Id>30183462</Id>
+        <Id>30182630</Id>
+        <Id>30182018</Id>
+        <Id>30181939</Id>
+        <Id>30181418</Id>
+        <Id>30181190</Id>
+        <Id>30180725</Id>
+    </IdList>
+    <TranslationSet>
+        <Translation>
+            <From>breast cancer diagnosis</From>
+            <To>
+                "breast neoplasms"[MeSH Terms] OR ("breast"[All Fields] AND "neoplasms"[All Fields]) OR "breast neoplasms"[All Fields] OR ("breast"[All Fields] AND "cancer"[All Fields] AND "diagnosis"[All Fields]) OR "breast cancer diagnosis"[All Fields]
+            </To>
+        </Translation>
+    </TranslationSet>
+    <TranslationStack>
+        <TermSet>
+            <Term>"breast neoplasms"[MeSH Terms]</Term>
+            <Field>MeSH Terms</Field>
+            <Count>266803</Count>
+            <Explode>Y</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"breast"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>459390</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"neoplasms"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>2467000</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <OP>GROUP</OP>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"breast neoplasms"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>267109</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"breast"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>459390</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <TermSet>
+            <Term>"cancer"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>2006725</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <TermSet>
+            <Term>"diagnosis"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>3276013</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <OP>AND</OP>
+        <OP>GROUP</OP>
+        <OP>OR</OP>
+        <TermSet>
+            <Term>"breast cancer diagnosis"[All Fields]</Term>
+            <Field>All Fields</Field>
+            <Count>2776</Count>
+            <Explode>N</Explode>
+        </TermSet>
+        <OP>OR</OP>
+        <OP>GROUP</OP>
+    </TranslationStack>
+    <QueryTranslation>
+        "breast neoplasms"[MeSH Terms] OR ("breast"[All Fields] AND "neoplasms"[All Fields]) OR "breast neoplasms"[All Fields] OR ("breast"[All Fields] AND "cancer"[All Fields] AND "diagnosis"[All Fields]) OR "breast cancer diagnosis"[All Fields]
+    </QueryTranslation>
+</eSearchResult>

@@ -1,0 +1,205 @@
+Total Medical Words:	679
+Words	Count 
+cancer	21
+prolactinomas	2
+CXCR4	10
+all-in-one nanoparticle	1
+ILC	1
+BRD4	4
+BCL-2	1
+Elastin	3
+breast cancers	3
+Ag2S-NP	1
+personal cancer	2
+hypoxia	2
+breast cancer detection	1
+tumour	4
+male breast cancer	1
+elastin	1
+ethinyl estradiol	1
+Male breast cancer	1
+COPD	10
+Familial Cancer	1
+breast and lung cancers	2
+cardiac dysfunction	1
+Hpy1881	1
+breast neoplasms	1
+colon cancer	2
+PA	11
+BC	6
+non-small cell lung cancer	2
+more aggressive tumour	1
+RAD51	2
+disease and fatal disease next to lung cancer	1
+Snail	1
+familial cancer	1
+metastatic adenocarcinoma	1
+contralateral breast cancer	3
+ALND	4
+PI3K	1
+epidermal growth factor receptor 2	1
+BET	5
+pituitary adenomas	2
+Colon Cancer	1
+elastosis	2
+BAX	1
+CD44	4
+colon cancers	1
+Akt	1
+increased total cancer	1
+RAD51C	1
+PR	1
+metastasis	12
+Triple Negative Breast Cancer	1
+mTOR	1
+TP53	2
+disproportionate	1
+melanoma	1
+MCL-1	1
+Adenoid cystic carcinoma	2
+hypoxic	4
+CDH1	2
+Chemical	10
+anthracyclines	1
+Colorectal cancer	1
+ray	3
+prostatic adenocarcinomas	1
+man	1
+HER-2	1
+triple negative breast cancer	1
+ATM	2
+miR-210	14
+NBN	1
+malignancy	3
+Esophageal Adenocarcinoma	1
+Breast cancer	5
+breast cancer	60
+silver sulfide	1
+vitamin D deficiency	1
+RAD51D	2
+cancers	1
+Troponin	1
+MEK	1
+invasive lobular carcinoma	1
+placed in breast and axilla	1
+Breast Cancer	4
+levonorgestrel	1
+BRCA1	8
+esophageal adenocarcinoma	1
+PALB2	2
+axillary lymph node dissection	1
+VEGFA	1
+Seroma	2
+Prolactinoma	1
+18F-FDG	3
+3-(4,5-dimethylthiazol-2- yl)-2,5-diphenyl tetrazolium bromide	1
+BE	4
+prolactinoma	4
+cardiotoxicities	1
+CD24	4
+TNBC	11
+capecitabine	1
+E-cadherin	8
+nasal sinus cancers	1
+aspirin	8
+lapatinib	1
+HER1	1
+VDR	5
+Osteopontin	2
+cardiac toxicity	1
+osteopontin	5
+platinum	1
+VEGFB	1
+triple-negative breast cancers	1
+BRCA2	2
+Breast cancer elastosis	1
+human epidermal growth factor receptor 2	1
+aid	1
+tumors	5
+heterogeneity of basal-like breast cancers	1
+breast tumor	1
+adenocarcinoma	1
+Disease	28
+breast cancer diagnosis	1
+CYP24A1	4
+CBC	7
+breast carcinoma	2
+Species	16
+invasive carcinoma	1
+ErbB	1
+progesterone	1
+CDDP	1
+chronic obstructive pulmonary disease	2
+chest wall disease	1
+cardiotoxicity	1
+BCL-W	1
+colorectal carcinoma	1
+cancer of the larynx and cancer of the oral cavity	1
+NSCLC	5
+DiR	1
+estrogen	2
+VEGFC	1
+mannose	2
+MR	3
+Gene	8
+MTT	1
+HER2	12
+patient	9
+SLNB	1
+human	6
+SLN	3
+men	1
+ERK	1
+CYP27B1	2
+acromegaly	1
+rare disease	1
+p53	1
+MBC	5
+HER3	1
+patients	67
+xenograft	1
+DCE	1
+Patients	5
+Pain	1
+cancer cell-related components	1
+BRCA1/2	1
+sentinel lymph node	1
+vitamin D	4
+c.1813dupA	1
+relapsed disease	1
+Women	1
+women	18
+males	1
+VEGF	2
+depression	2
+Lung cancer	1
+seroma production	7
+lung cancer	1
+nude mice	1
+chest wall lesions	1
+BCL-X	1
+breast malignancy	1
+Vitamin D	1
+MDA-MB-231 breast cancer	2
+malignant tumor	1
+tumor	15
+CHEK2	2
+type of basal-like tumor	1
+MAPK	1
+carcinoma	1
+visual Fatigue	1
+Alpelisib	1
+People	1
+HER4	1
+AION	3
+PIK3CA	2
+EAC	7
+PGF	1
+Barrett's lesions	1
+GSK525762A	1
+deaths	2
+Tumor	1
+Raf	1
+toxicity	1
+alpelisib	1
+Barrett's esophagus	1

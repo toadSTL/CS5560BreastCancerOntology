@@ -1,0 +1,3 @@
+Total nouns:3960
+Total verbs:1421
+Total other:4289

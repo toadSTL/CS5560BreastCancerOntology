@@ -1,0 +1,158 @@
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Process" Owner="NLM">
+            <PMID Version="1">30183926</PMID>
+            <DateRevised>
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </DateRevised>
+            <Article PubModel="Print">
+                <Journal>
+                    <ISSN IssnType="Electronic">1726-4642</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>35</Volume>
+                        <Issue>2</Issue>
+                        <PubDate>
+                            <MedlineDate>2018 Apr-Jun</MedlineDate>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>
+                        Revista peruana de medicina experimental y salud publica
+                    </Title>
+                    <ISOAbbreviation>Rev Peru Med Exp Salud Publica</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>[Breast tuberculosis: a case report].</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>333-337</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">S1726-46342018000200333</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.17843/rpmesp.2018.352.3131</ELocationID>
+                <Abstract>
+                    <AbstractText>
+                        We present a case of mastitis in a 45-year-old woman with no history of infection in other areas of the body, with unspecific clinical picture, imaging studies, and bacilloscopy. However, histological samples obtained by aspiration showed giant epithelial cells, necrosis, and granulomatous formations, which justified a clinical inclination toward tuberculosis. In the absence of confirmatory evidence of any lesions in other tissues, the existence of mastitis of torpid evolution is a clinical indication to suspect mammary tuberculosis, since the characteristics of the process usually lead to erroneous diagnoses with other breast tumors such as cancer. Tuberculosis in the breast is a rare disease with a difficult diagnosis due to the low clinical and microbiological evidence and the lack of specificity of the imaging results, so the suspicion of its real diagnostic possibility is a fundamental condition for its determination, even when the causal agent is not confirmed.
+                    </AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Sánchez-Miño</LastName>
+                        <ForeName>Jorge Isaac</ForeName>
+                        <Initials>JI</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Universidad Técnica de Ambato. Ecuador.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ortiz Rodríguez</LastName>
+                        <ForeName>Ana María</ForeName>
+                        <Initials>AM</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Sanatorio Güemes. Buenos Aires, Argentina.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>García Orozco</LastName>
+                        <ForeName>Lucas</ForeName>
+                        <Initials>L</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hospital Asdrúbal de la Torre. Cotacachi, Ecuador.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Venegas Mera</LastName>
+                        <ForeName>Beatriz</ForeName>
+                        <Initials>B</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Universidad Técnica de Ambato. Tungurahua, Ecuador.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Yepez-Yerovi</LastName>
+                        <ForeName>Fabian Eduardo</ForeName>
+                        <Initials>FE</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Hospital General Docente de Ambato. Ambato, Ecuador.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Hospital General del Instituto Ecuatoriano de Seguridad Social. Ambato, Ecuador.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Escalona-Rabaza</LastName>
+                        <ForeName>Milagros</ForeName>
+                        <Initials>M</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Universidad Técnica de Ambato. Tungurahua, Ecuador.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>spa</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D002363">Case Reports</PublicationType>
+                    <PublicationType UI="D004740">English Abstract</PublicationType>
+                </PublicationTypeList>
+                <VernacularTitle>Tuberculosis de mama: reporte de un caso.</VernacularTitle>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Peru</Country>
+                <MedlineTA>Rev Peru Med Exp Salud Publica</MedlineTA>
+                <NlmUniqueID>101227566</NlmUniqueID>
+                <ISSNLinking>1726-4634</ISSNLinking>
+            </MedlineJournalInfo>
+            <OtherAbstract Type="Publisher" Language="spa">
+                <AbstractText>
+                    Presentamos caso de mastitis en mujer de 45 años sin antecedentes de infección en otras regiones corporales. Presentó cuadro clínico, estudios de imágenes y baciloscopia inespecíficos, sin embargo, mediante muestras histológicas obtenidas por punción aspirativa se encontró células epiteliodes gigantes, necrosis y formaciones granulomatosas, lo cual justificó el pensamiento clínico en tuberculosis. En ausencia de evidencias confirmatorias de lesión en otros tejidos, la existencia de mastitis de evolución tórpida es un indicativo clínico para sospechar tuberculosis mamaria, pues usualmente las características del proceso suelen plantear diagnósticos erróneos con otras entidades tumorales de la mama como cáncer. La tuberculosis en mama, representa una rara enfermedad cuyo diagnóstico es difícil por las bajas evidencias clínicas, microbiológicas y la inespecificidad de los resultados imagenológicos, por lo que la sospecha de su real posibilidad diagnóstica es una condición primordial para su determinación, aun cuando no se confirme el agente causal.
+                </AbstractText>
+            </OtherAbstract>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2017</Year>
+                    <Month>09</Month>
+                    <Day>23</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2018</Year>
+                    <Month>03</Month>
+                    <Day>07</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">30183926</ArticleId>
+                <ArticleId IdType="pii">S1726-46342018000200333</ArticleId>
+                <ArticleId IdType="doi">10.17843/rpmesp.2018.352.3131</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

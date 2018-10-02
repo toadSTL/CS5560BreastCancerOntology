@@ -1,0 +1,9 @@
+﻿Antrodia camphorata (AC) exhibits potential for engendering cell-cycle arrest as well as prompting apoptosis and metastasis inhibition in triple-negative breast cancer (TNBC) cells.
+We performed the current study to explore the anti-epithelial-to-mesenchymal transition (EMT) properties of fermented AC broth in TNBC cells.
+Our results illustrated that noncytotoxic concentrations of AC (20-60 μg/ml) reversed the morphological changes (fibroblastic-to-epithelial phenotype) as well as the EMT by upregulating the observed E-cadherin expression.
+Furthermore, we discovered treatment with AC substantially inhibit the Twist expression in human TNBC (MDA-MB-231) cells as well as in those that were transfected with Twist.
+In addition, we determined AC to decrease the observed Wnt/β-catenin nuclear translocation through a pathway determined to be dependent on GSK3β.
+Notably, AC treatment consistently inhibited the EMT by downregulating mesenchymal marker proteins like N-cadherin, vimentin, Snail, ZEB-1, and fibronectin; at that same time upregulating epithelial marker proteins like occludin and ZO-1.
+Bioluminescence imaging that was executed in vivo demonstrated AC substantially suppressed breast cancer metastasis to the lungs.
+Notably, we found that western blot analysis confirmed that AC decreased lung metastasis as demonstrated by upregulation of E-cadherin expression in biopsied lung tissue.
+Together with our results support the anti-EMT activity of AC, indicating AC as having the potential for acting as an anticancer agent for the treatment of human TNBC treatment.

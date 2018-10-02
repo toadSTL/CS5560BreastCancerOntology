@@ -1,0 +1,11 @@
+Although eribulin mesylate(ERI)has been approved for metastatic breast cancer, its efficacy and safety in combination with other chemotherapeutic agents have not been established.
+To investigate the tolerability of combination therapy with ERI and gemcitabine(GEM), we conducted a phase I clinical study in Japanese patients with metastatic breast cancer.
+The initial doses(Level 0)of ERI and GEM were 1.1mg/m2 and 800 mg/m2, respectively.
+When tolerability to Level 0 doses was confirmed, the doses were escalated to 1.4mg/m2 for ERI and 800 mg/m2 for GEM(Level 1).
+Seven patients were enrolled in this study; 3 patients received Level 0 doses and the other 4 patients received Level 1 doses.
+A dose limiting toxicity(DLT)was found in only 1 patient of the Level 1 group(Grade 3 oral mucositis).
+However, Grade 3 or higher hematological toxicities, including neutropenia, frequently occurred, and hence, this combination therapy was not conducted as scheduled.
+Thus, maximum tolerated dose(MTD)and recommended dose(RD)for phase II trials were not evaluated in this study.
+Drugdrug interactions between ERI and GEM were not observed.
+In conclusion, it was difficult to continue the combination therapy for patients with advanced recurrent breast cancer due to hematological toxicities.
+There is little possibility for the combination therapy with ERI and GEM at the specific doses to be regarded as a new treatment option for Japanese patients.

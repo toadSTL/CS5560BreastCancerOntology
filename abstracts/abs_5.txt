@@ -1,0 +1,4 @@
+We present the case of a postmenopausal patient with a secondary metastatic ER-positive, HER2-negative breast cancer who was successfully treated with fulvestrant and alpelisib following six lines of therapy.
+The tumour showed two uncommon PIK3CA mutations, and with the combination of alpelisib and fulvestrant the patient went from ECOG grade 3, before the start of this therapy, to ECOG grade 1 during treatment until progressive disease after 6 months.
+This unexpected benefit emphasizes the importance of performing a Next Generation Sequencing (NGS)-based assay to screen for several cancer genes in the metastatic setting, even after more than four lines of therapy and a high ECOG grade.
+Moreover, the use of alpelisib may be beneficial for uncommon PIK3CA mutations.

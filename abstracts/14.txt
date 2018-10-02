@@ -1,0 +1,8 @@
+This study aimed to assess the efficacy of anthracycline-based (AB) and non-anthracycline-based (nAB) adjuvant therapies in the human epidermal growth factor receptor 2 (HER2)-positive non-metastatic BC (nMBC) patients.
+This retrospective study included women with HER2-positive BCs (stage I-III) treated with trastuzumab from 2008 to 2017.
+The patients were divided into two groups, including 196 patients in group AB and 67 in group nAB.
+Cox's proportional hazard regression analysis showed no unfavourable predictors for five-year overall survival (OS) and disease-free survival (DFS) except for stage and hormone therapy.
+The OS rate was 67.9% in group AB and 80.6% in group nAB (p = 0.630).
+The DFS rate was 61.6% in group AB compared with 67.1% in group nAB (p = 0.447).
+The results showed no difference between the efficacies of AB and nAB regimens in HER2-positive nMBCs in adjuvant setting.
+Therefore, selecting the nAB regimen can reduce the serious damage caused by the AB regimen.

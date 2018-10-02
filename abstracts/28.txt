@@ -1,0 +1,8 @@
+﻿Detecting cell death and predicting tumor response early in a course of chemotherapy could help optimize treatment regimens and improve clinical outcomes.
+Chemical exchange saturation transfer (CEST) MRI was investigated in vivo to study properties that may be able to detect cancer death.
+Using a magnetization transfer ratio (MTR) cutoff of 0.12 at 1.8 ppm was able to differentiate between viable tumor and cell death regions. Comparison of MTR values at this frequency showed significant differences (p < 0.0001) between viable tumor and cell death regions, matching patterns seen on histology.
+Using this cutoff, the mean increase in cell death index (± standard error of the mean) after chemotherapy was 4 ± 4%, 10% ± 7%, 10 ± 8%, and 4 ± 9% at 4, 8, 12, and 24 h, respectively.
+CEST MRI can detect cell death in MDA-231 xenografts but further work is needed to characterize the clinical applications of this finding. Maximum response to chemotherapy occurred at 8-12 h after chemotherapy injection in this in vivo tumor model.
+Breast cancer xenografts (MDA-MB-231) were scanned using 7 T MRI before and after chemotherapy.
+As a measure of CEST effect at 0.5 µT saturation amplitude, MTR values at frequency offsets of 1.8 and -3.3 ppm were evaluated.
+CEST signals after chemotherapy treatment were compared to cell-death histopathology of tumors.

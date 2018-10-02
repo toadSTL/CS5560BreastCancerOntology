@@ -1,0 +1,100 @@
+
+Synonyms for lemma: TX stage
+in patients 0.9911593198776245
+of breast 0.9910159111022949
+breast cancer 0.9909327030181885
+
+Synonyms for lemma: with PA
+in patients 0.9979629516601562
+  0.9979022145271301
+patients with 0.9978963136672974
+
+Synonyms for lemma: low-dose aspirin
+of breast 0.9948102831840515
+patients with 0.9946749210357666
+in patients 0.9946625232696533
+
+Synonyms for lemma: ER stress
+such as 0.8971178531646729
+SUVmax of 0.8888940215110779
+evaluation and 0.8883254528045654
+
+Synonyms for lemma: seroma production
+of breast 0.9864046573638916
+is the 0.9863949418067932
+patients with 0.9863922595977783
+
+Synonyms for lemma: bone marrow
+patients may 0.1238749623298645
+in ER + tumors 0.12297268956899643
+healthy and 0.12067069858312607
+
+Synonyms for lemma: ERI and
+other vitamin 0.582809329032898
+risk of 0.5811181664466858
+being the 0.580677330493927
+
+Synonyms for lemma: late recurrence
+and effects 0.1242389976978302
+type (defined 0.11706043034791946
+later in 0.10643567144870758
+
+Synonyms for lemma: 95% CI:
+concerns especially 0.3316373825073242
+developed and 0.3256661593914032
+selected cases 0.3239594101905823
+
+Synonyms for lemma: intake of
+of breast 0.998245120048523
+patients with 0.9981059432029724
+in patients 0.998082160949707
+
+Synonyms for lemma: and naringenin
+context of 0.15768826007843018
+MM-468 and 0.15711723268032074
+risk was 0.1544569730758667
+
+Synonyms for lemma: GSPs and
+of breast 0.9911474585533142
+breast cancer 0.9910221695899963
+in patients 0.9909394383430481
+
+Synonyms for lemma: plasma IL-6
+protected by 0.768767237663269
+diagnosis and 0.7669284343719482
+among women 0.7658619284629822
+
+Synonyms for lemma: plasma ESR1
+low-dose aspirin 0.6019290089607239
+The aim 0.6017822623252869
+estrogen receptor 0.6008535623550415
+
+Synonyms for lemma: in MM-468
+among women 0.9174789786338806
+in patients 0.9173275828361511
+Breast cancer 0.9171438217163086
+
+Synonyms for lemma: and Res
+breast cancer 0.9904295802116394
+in patients 0.99018794298172
+patients with 0.9899936318397522
+
+Synonyms for lemma: affected by
+among women 0.975873589515686
+of breast 0.9757152199745178
+in patients 0.9753153920173645
+
+Synonyms for lemma: survival rates
+diagnosis and 0.9092165231704712
+protected by 0.907784104347229
+among women 0.9070968627929688
+
+Synonyms for lemma: vitamin A
+of breast 0.9711010456085205
+is the 0.9709795117378235
+patients with 0.9708980321884155
+
+Synonyms for lemma: combination therapy
+that treatments 0.6365622878074646
+cancer using 0.6358475089073181
+p  0.6354634165763855

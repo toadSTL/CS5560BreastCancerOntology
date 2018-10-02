@@ -1,0 +1,13 @@
+﻿Bisphosphonate (BP) treatment to prevent bone loss in breast cancer patients is already well established.
+However, data on the association between oral BP exposure before cancer diagnosis and disease outcomes in patients with early breast cancer are still scarce. Limited information is available on alendronate, the most common oral agent for the treatment of post-menopausal osteoporosis, regarding the association with bone metastases.
+To examine the association between oral bisphosphonate exposure before cancer diagnosis and the risk of bone metastases in osteoporotic women diagnosed with early breast cancer.
+This historical cohort study was conducted at the oncology division at Tel Aviv Medical Center.
+The study population included post-menopausal women with early breast cancer, diagnosed between 2002 and 2012.
+Data on cancer characteristics, diagnosis of osteoporosis, prior bisphosphonate exposure and outcome were collected from medical files.
+Among 297 osteoporotic women identified, 145 (49%) were treated with bisphosphonates (alendronate in 90% of the cases) before cancer diagnosis.
+BP-treated women were significantly older than the BP-naïve ones (67.9 years vs 64.6 years, p = 0.01), but comparable in risk factors and disease characteristics.
+Over a mean follow up of 5.6 years, nine cases of bone metastases were identified, eight of them among BP-naïve patient (cumulative incidence of 9.9%) and one among BP-treated patients (0.7%).
+In a multivariable Cox's proportional hazards survival model the use of BP prior to cancer diagnosis was associated with a hazard ratio of 0.04 (95%CI:0.004-0.403, p = 0.006) for bone metastasis.
+The HR remained similar after further adjustment for tumor stage and cancer therapy.
+History of alendronate use is associated with a lower likelihood of bone metastases in postmenopausal women with early breast cancer.
+Oral bisphosphonate treatment could be sufficient for reducing the risk of bone metastases.

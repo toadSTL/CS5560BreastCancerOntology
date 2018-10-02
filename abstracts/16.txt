@@ -1,0 +1,7 @@
+﻿Cancer stem cells (CSCs) are drug-resistant and radiation-resistant cancer cells that are responsible for tumor progression and maintenance, cancer recurrence, and metastasis.
+Targeting breast CSCs with phytochemicals is a new paradigm for cancer prevention and treatment.
+In this study, activity-guided fractionation from mammosphere formation inhibition assays, repeated chromatographic preparations over silica gel, preparatory thin layer chromatography, and HPLC using aronia extracts led to the isolation of one compound.
+Using ¹H and 13C 2-dimensional nuclear magnetic resonance (NMR) as well as electrospray ionization (ESI) mass spectrometry, the isolated compound was identified as 3-O-p-coumaroyltormentic acid.
+This compound inhibits breast cancer cell proliferation and mammosphere formation in a dose-dependent manner and reduces the CD44high/CD24low subpopulation and aldehyde dehydrogenase (ALDH)-expressing cell population as well as the expression of the self-renewal-related genes CD44, SOX2, and OCT4.
+3-O-p-Coumaroyltormentic acid preferentially reduced the protein levels of c-Myc, which is a CSC survival factor, by inducing c-Myc degradation.
+These findings indicate the novel utilization of 3-O-p-coumaroyltormentic acid for breast cancer therapy via disruption of c-Myc protein, which is a CSC survival factor.

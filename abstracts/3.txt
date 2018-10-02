@@ -1,0 +1,12 @@
+The aim of the present work is to assess the Objective Breast Cosmesis Scale (OBCS) in a patient cohort that was treated in two hospitals.
+Their treatment-related cosmetic changes were recorded on nonstandardized photographs.
+Nineteen female patients were enrolled in two radiation oncology centers (Nice, France, and Perugia, Italy).
+All patients had undergone breast-conserving surgery (BCS) and received adjuvant accelerated partial breast irradiation using interstitial fractionated multicatheter high-dose-rate brachytherapy.
+One photograph before and another after accelerated partial breast irradiation was taken for each patient to record changes in breast cosmesis.
+Using the OBCS, before and after photographs were analyzed by measuring distances between anatomic features.
+OBCS scores from four doctors (two males [one radiation oncologist and one post-grad trainee] and two females [one radiation oncologist and one post-grad trainee]) were compared.
+Agreement was high between trainees and specialist, and males and females before and after treatment.
+The intraclass correlation coefficient ranged from 0.867 to 0.950 before treatment and from 0.876 to 0.952 afterward.
+The coefficient of variation ranged from 12% to 26.5% before treatment, and from 13% to 21.4% afterward.
+The OBCS is easy, time-efficient, reproducible, cost-effective, and reliable.
+Its potential practical applications merit further investigation in future studies.

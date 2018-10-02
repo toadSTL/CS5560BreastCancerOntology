@@ -1,0 +1,8 @@
+Orthosiphon pallidus (O. pallidus), which belongs to the Lamiaceae family, is a popular garden plant that is widely used for the treatment of various diseases, such as urinary lithiasis, fever, hepatitis, cancer and jaundice.
+The objective of the present work was to investigate the antioxidant free-radical scavenging and the anticancer activities of O. pallidus against human breast-cancer cell lines.
+The antioxidant activity of Orthosiphon pallidus aqueous extract (OPAE) was investigated using different models, such as the 1,1-diphenyl-2-picrylhydrazyl (DPPH) and the 2, 2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) models, as were the Fe+ chelation, the hydroxyl radical and superoxide radical scavenging, and total reducing power activities.
+The anticancer activities of the extract were determined by using the 3-(4, 5- dimethylthiazolyl-2)-2, 5-diphenyltetrazolium bromide (MTT) and the sulforhodamine (SRB) assays on the MCF-7 and the MDA-MB-231 cancer cell lines.
+The aqueous Orthosiphon pallidus extract showed potent activity in in-vitro models.
+It significantly inhibited the scavenging of hydroxyl and superoxide radicals, but induced a remarkable Fe+ chelation activity.
+For both cell lines, the percent cytotoxicity was found to increase steadily with increasing OPAE concentration up to 240 µg/mL.
+These results suggest that Orthosiphon pallidus has excellent antioxidant, antimicrobial, and anticancer activities against human breast-cancer cell lines.

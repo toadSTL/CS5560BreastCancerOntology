@@ -1,0 +1,100 @@
+
+Synonyms for lemma: pl
+' 0.9969460368156433
+occur 0.9963735938072205
+cancer-related 0.9963201880455017
+
+Synonyms for lemma: ac
+gsp 0.9600597023963928
+mechanism 0.9599184393882751
+promoter 0.9599012136459351
+
+Synonyms for lemma: pa
+higher 0.9991503953933716
+commonly 0.9986661076545715
+postpartum 0.998384416103363
+
+Synonyms for lemma: ir
+member 0.9708616137504578
+Res 0.9706016182899475
+commonly 0.9702582359313965
+
+Synonyms for lemma: sexual
+20 0.6573414206504822
+product 0.6572536826133728
+African 0.6569435596466064
+
+Synonyms for lemma: stress
+progression-free 0.8391952514648438
+generate 0.8253911137580872
+composition 0.8193619847297668
+
+Synonyms for lemma: snp
+sac 0.9991981387138367
+assay 0.9990804195404053
+indicate 0.9989530444145203
+
+Synonyms for lemma: pet
+discomfort 0.8762757182121277
+marked 0.8714357614517212
+secondary 0.8695735931396484
+
+Synonyms for lemma: TX
+t1-t3 0.996788501739502
+dtc 0.996634304523468
+prolactinoma 0.9959672093391418
+
+Synonyms for lemma: mm-231
+potent 0.9981542825698853
+smoking-related 0.9981304407119751
+finding 0.998024582862854
+
+Synonyms for lemma: perfusion
+powerful 0.17610377073287964
+construct 0.1630341112613678
+appear 0.16286088526248932
+
+Synonyms for lemma: virus
+production 0.6584042310714722
+brcaness 0.6536075472831726
+extent 0.650371789932251
+
+Synonyms for lemma: seroma
+reserve 0.991917610168457
+tumour-related 0.9887292981147766
+wild-type 0.9887236952781677
+
+Synonyms for lemma: intake
+development 0.9208812713623047
+vitro 0.9190672039985657
+prospective 0.9189921617507935
+
+Synonyms for lemma: lincrna-ror
+indicate 0.9890830516815186
+snp 0.9890340566635132
+assay 0.9889111518859863
+
+Synonyms for lemma: mm-468
+95 0.9975587129592896
+-lsb- 0.9974870681762695
+interval 0.997474730014801
+
+Synonyms for lemma: ctn
+develop 0.8997798562049866
+development 0.8990751504898071
+prospective 0.8963671326637268
+
+Synonyms for lemma: postpartum
+diphos 0.9992749094963074
+pregnancy 0.9989749193191528
+member 0.9987196922302246
+
+Synonyms for lemma: pregnancy
+life 0.9990881085395813
+postpartum 0.9989756345748901
+Res 0.9987732172012329
+
+Synonyms for lemma: aspirin
+nodule 0.9882302284240723
+woman 0.9804418683052063
+fill 0.9799914360046387

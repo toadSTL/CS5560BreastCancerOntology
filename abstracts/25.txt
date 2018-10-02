@@ -1,0 +1,8 @@
+Triple-negative breast cancer (TNBC) accounts for 15% to 20% of breast cancer cases and is characterized by the absence of estrogen, progesterone, and human epidermal growth factor 2 receptors.
+Though TNBC is a highly heterogenic and aggressive disease, TNBC patients have better response to neoadjuvant therapy compared to other breast cancer subtypes.
+Nevertheless, patients with residual disease have a very poor prognosis, with higher probability of relapse and lower overall survival in the first years after diagnosis.
+TNBC has 6 subtypes with distinct molecular signatures with different prognoses and probably different responses to therapy.
+The precise stratification of TNBC is therefore crucial for the development of potent standardized and targeted therapies.
+In spite of intensive research into finding new molecular biomarkers and designing personalized therapeutic approaches, BRCA mutational status is the only clinically validated biomarker for personalized therapy in TNBC.
+Recent studies have reported several promising biomarkers that are currently being validated through clinical trials.
+The objective of this review was to summarize the clinically relevant genetic markers for TNBC that could serve as diagnostic, prognostic, or predictive or could improve personalized therapeutic strategies.

@@ -1,0 +1,7 @@
+Breast cancer is one of the malignancies which tend to involve the bone marrow, but initial presentation with diffuse bone marrow metastasis from an occult breast cancer is very rare.
+Prognosis is generally very poor for marrow metastasis from solid tumors except that breast cancer is a treatable disease even in such a dismal condition.
+A 64-year-old woman's headache was found to result from diffuse adenocarcinoma metastasis in the bone marrow from an unknown primary site. Intensive immunohistochemistry study of bone marrow biopsy specimen confirmed the disease nature to be an estrogen receptor-positive/human epidermal growth factor receptor 2-negative breast cancer.
+Mammography and magnetic resonance imaging of breasts revealed a suspicious primary lesion in the right breast.Treatment with tamoxifen alone achieved a sustained response.
+Mucin 1 (MUC1), also known as cancer antigen 15-3 (CA 15-3), facilitates motility and metastatic potential of breast cancer cells. Interleukin-1ß (IL-1ß) drives breast cancer cell growth and colonization in bone marrow adipose tissue niche.
+Receptor activator of nuclear factor kappa-B (RANK) and its ligand (RANKL) activate osteoclasts to make a favorable bone marrow microenvironment for tumor cells.
+Agents against MUC1, IL-1ß, and RANKL might be of therapeutic effect for patients like ours.

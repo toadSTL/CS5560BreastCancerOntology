@@ -1,0 +1,100 @@
+
+Synonyms for lemma: patients with PA
+leading cause of 0.9657845497131348
+   0.9584972262382507
+cause of death 0.9555913209915161
+
+Synonyms for lemma: GSPs and Res
+leading cause of 0.8984073996543884
+   0.8912564516067505
+second leading cause 0.8896043300628662
+
+Synonyms for lemma: of low-dose aspirin
+leading cause of 0.9724931716918945
+   0.967728316783905
+cause of death 0.9617713689804077
+
+Synonyms for lemma: with early breast
+diagnosed later in 0.24041098356246948
+postmenopausal patient with 0.23633822798728943
+study did not 0.23159731924533844
+
+Synonyms for lemma: plasma IL-6 levels
+cause of death 0.5716065168380737
+second leading cause 0.5703827738761902
+most common cancer 0.5703186392784119
+
+Synonyms for lemma: of tamoxifen and
+low-dose aspirin and 0.23969033360481262
+is protected by 0.23782457411289215
+of patients with 0.23636816442012787
+
+Synonyms for lemma: tamoxifen and naringenin
+347 within a 0.17064398527145386
+is protected by 0.16986903548240662
+low-dose aspirin and 0.16523517668247223
+
+Synonyms for lemma: BRCA1 or BRCA2
+examined by Kaplan-Meier 0.2485593855381012
+among women in 0.2450568675994873
+article is protected 0.2444620281457901
+
+Synonyms for lemma: with PA diagnosed
+leading cause of 0.9656676650047302
+   0.9612571001052856
+second leading cause 0.9574641585350037
+
+Synonyms for lemma: family history of
+MDA-MB-231 and HCC38 0.300060510635376
+the use of 0.28951942920684814
+near infrared fluorescent 0.28399690985679626
+
+Synonyms for lemma: development of resistance
+leading cause of 0.8268130421638489
+   0.8183290958404541
+the second leading 0.8175662755966187
+
+Synonyms for lemma: for those diagnosed
+leading cause of 0.8890041708946228
+   0.8829860687255859
+cause of death 0.8813893795013428
+
+Synonyms for lemma: breast and/or ovarian
+leading cause of 0.7452319264411926
+the second leading 0.7442718744277954
+the leading cause 0.7419149279594421
+
+Synonyms for lemma: within a year
+leading cause of 0.9613104462623596
+   0.9572479128837585
+cause of death 0.9523652791976929
+
+Synonyms for lemma: expression of estrogen-responsive
+31 December 2014 0.14865849912166595
+with axillary lymph 0.14820927381515503
+ratios (HRs) and 0.14445550739765167
+
+Synonyms for lemma: the intake of
+leading cause of 0.9700457453727722
+   0.9650497436523438
+cause of cancer-related 0.9593508243560791
+
+Synonyms for lemma: post-diagnosis use of
+leading cause of 0.9665827751159668
+   0.9589983820915222
+cause of cancer-related 0.9542588591575623
+
+Synonyms for lemma: use of low-dose
+leading cause of 0.9722051620483398
+   0.9681082367897034
+cause of death 0.9619464874267578
+
+Synonyms for lemma: diagnosed before the
+leading cause of 0.9730243682861328
+   0.9672238826751709
+cause of death 0.9613621234893799
+
+Synonyms for lemma: significantly higher than
+leading cause of 0.7733557224273682
+cause of death 0.7649560570716858
+second leading cause 0.7646508812904358

@@ -1,0 +1,135 @@
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Data-Review" Owner="NLM">
+            <PMID Version="1">30182630</PMID>
+            <DateRevised>
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </DateRevised>
+            <Article PubModel="Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1876-8784</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>162</Volume>
+                        <PubDate>
+                            <Year>2018</Year>
+                            <Month>Jul</Month>
+                            <Day>27</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Nederlands tijdschrift voor geneeskunde</Title>
+                    <ISOAbbreviation>Ned Tijdschr Geneeskd</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>
+                    [Acute headache and neck pain caused by crowned dens syndrome].
+                </ArticleTitle>
+                <ELocationID EIdType="pii" ValidYN="Y">D2699</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">
+                        Crowned dens syndrome (CDS) is a rare cause of acute headache and neck pain, which is accompanied by fever and a stiff neck. It is caused by calcium deposits (pseudogout) around the dens axis (C2).
+                    </AbstractText>
+                    <AbstractText Label="CASE DESCRIPTION" NlmCategory="METHODS">
+                        A 61-year-old woman, with a history of migraine and of breast cancer 8 years previously, was referred to the accident and emergency department of our hospital with acute headache and neck pain. She was treated in the department with prednisone, on suspicion of giant-cell arteritis. However, an 18F-FDG-PET-CT showed inflammation and calcification around the dens, consistent with CDS. The patient's condition improved rapidly after treatment with prednisone.
+                    </AbstractText>
+                    <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">
+                        CDS should be considered in the differential diagnosis of acute headache and neck pain. Familiarity with the disease course can prevent unnecessary diagnostic tests and treatment. The syndrome can be easily diagnosed with a CT scan, but an 18F-FDG-PET-CT can also be used to reveal inflammatory activity around the dens.
+                    </AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Duizer</LastName>
+                        <ForeName>Marleen L</ForeName>
+                        <Initials>ML</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Canisius Wilhelmina Ziekenhuis, afd. Interne geneeskunde, Nijmegen.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Contact: M.L. Duizer (m.duizer@cwz.nl).</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Hermsen</LastName>
+                        <ForeName>Rick</ForeName>
+                        <Initials>R</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Canisius Wilhelmina Ziekenhuis, afd. Nucleaire geneeskunde, Nijmegen.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Te Boekhorst</LastName>
+                        <ForeName>Tomas</ForeName>
+                        <Initials>T</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Canisius Wilhelmina Ziekenhuis, afd. Radiologie, Nijmegen.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Janssen</LastName>
+                        <ForeName>Sven</ForeName>
+                        <Initials>S</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>
+                                Canisius Wilhelmina Ziekenhuis, afd. Interne geneeskunde, Nijmegen.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>dut</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D004740">English Abstract</PublicationType>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                </PublicationTypeList>
+                <VernacularTitle>
+                    Acute hoofd- en nekpijn door ‘crowned’-denssyndroom.
+                </VernacularTitle>
+                <ArticleDate DateType="Electronic">
+                    <Year>2018</Year>
+                    <Month>07</Month>
+                    <Day>27</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Netherlands</Country>
+                <MedlineTA>Ned Tijdschr Geneeskd</MedlineTA>
+                <NlmUniqueID>0400770</NlmUniqueID>
+                <ISSNLinking>0028-2162</ISSNLinking>
+            </MedlineJournalInfo>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2018</Year>
+                    <Month>9</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">30182630</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>
