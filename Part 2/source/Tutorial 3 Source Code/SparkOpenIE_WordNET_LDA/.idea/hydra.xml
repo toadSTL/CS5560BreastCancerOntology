@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>

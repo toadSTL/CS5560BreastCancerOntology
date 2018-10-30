@@ -1,0 +1,16 @@
+syndrome:ADD,ADHD,Chinese restaurant syndrome,Conn's syndrome,Ekbom syndrome,FAS,Fallot's syndrome,Fallot's tetralogy,Gilles de la Tourette syndrome,Gulf War syndrome
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+rare:extraordinary,infrequent,rarefied,rarified,raw,scarce,thin,uncommon
+cause:action,action at law,ad blitz,ad campaign,adoption,advertising campaign,aetiology,agent,antecedent,anti-war movement
+acute:acuate,critical,discriminating,incisive,intense,keen,knifelike,needlelike,penetrating,penetrative
+headache:annoyance,aversive stimulus,backache,bellyache,bother,botheration,bugaboo,burden,business,cephalalgia
+neck:V neck,aperture,appendage,archipelago,arthromere,backbone,beachfront,bell,bit,bottleneck
+accompanied:attended
+by:aside,away,past
+fever:Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,ague,albuminuria,alkalinuria
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+stiff:besotted,blind drunk,blotto,buckram,cockeyed,crocked,drunk,effective,effectual,efficacious
+by:aside,away,past
+calcium:Al,Am,Ba,Be,Bi,Bk,Ca,Cd,Ce,Cf
+around:about,approximately,close to,just about,more or less,or so,roughly,round,some
+axis:Allies,Axis,Central Powers,Northern Alliance,United Front,aclinic line,action,action mechanism,actuator,agonic line

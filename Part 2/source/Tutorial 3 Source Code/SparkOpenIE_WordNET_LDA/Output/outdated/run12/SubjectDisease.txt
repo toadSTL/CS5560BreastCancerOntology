@@ -1,0 +1,6 @@
+Disease,cancer
+Disease,acromegaly
+Disease,colorectalCancer
+Disease,lungCancer
+Disease,seromaProduction
+Disease,breastCancer

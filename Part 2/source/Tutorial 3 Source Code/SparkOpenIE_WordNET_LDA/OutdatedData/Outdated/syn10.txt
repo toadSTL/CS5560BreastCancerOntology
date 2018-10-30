@@ -1,0 +1,32 @@
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+determined:ambitious,ascertained,compulsive,dictated,discovered,driven,observed,obstinate,resolute,set
+by:aside,away,past
+multiple:double,factorial,lcm,least common multiple,lowest common multiple,quadruple,triple
+but:just,merely,only,simply
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+distant:aloof,deep,extreme,far,far-flung,faraway,long-distance,loosely knit,nonadjacent,out-of-town
+often:a great deal,frequently,much,oft,oftentimes,ofttimes
+systemic:general
+surgery:D and C,ER,OR,PPP,Shirodkar's operation,UPPP,ablation,amputation,anaplasty,anechoic chamber
+primary:basal,basic,capital,chief,direct,elemental,elementary,essential,first,first-string
+tumour:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+remains:archeological remains,cadaver,carcase,carcass,carrion,catch,charm,clay,commemorative,corpse
+following:favorable,favourable,next,pursuing,succeeding,undermentioned
+systemic:general
+radiotherapy:Curietherapy,EMDA,HRT,X-ray therapy,actinotherapy,aromatherapy,botanical medicine,chemotherapy,correction,electric healing
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+used:exploited,ill-used,in use,misused,old,put-upon,secondhand,utilised,utilized,victimised
+tumour:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+shrinkage:attrition,biopiracy,breach of trust with fraudulent intent,casualty,compression,condensation,contraction,defalcation,dip,drop
+prior:abbess,abbot,archimandrite,mother superior,prioress
+metastatic:
+disease:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,aeroembolism,ague,air embolism,amyloidosis,animal disease
+radiotherapy:Curietherapy,EMDA,HRT,X-ray therapy,actinotherapy,aromatherapy,botanical medicine,chemotherapy,correction,electric healing
+generally:broadly,broadly speaking,by and large,in general,in the main,loosely,more often than not,mostly
+reserved:aloof,backward,bookable,booked,diffident,distant,engaged,indrawn,inhibited,restrained
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+experience:Americanise,Americanize,acetylate,acetylise,acetylize,acquire,adapt,adjust,adopt,alkalinise
+radiotherapy:Curietherapy,EMDA,HRT,X-ray therapy,actinotherapy,aromatherapy,botanical medicine,chemotherapy,correction,electric healing
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick

@@ -1,0 +1,13 @@
+LungCancer
+cancer
+breastCancerDiagnosis
+lungCancer
+tumour
+acromegaly
+ColorectalCancer
+seromaProduction
+BreastCancer
+BreastCancer
+breastCancer
+AION
+TNBC

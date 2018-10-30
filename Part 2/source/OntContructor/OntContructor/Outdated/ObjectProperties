@@ -1,0 +1,2 @@
+hasGender,Person,Gender,Func
+hasChild,Person,Person,Func

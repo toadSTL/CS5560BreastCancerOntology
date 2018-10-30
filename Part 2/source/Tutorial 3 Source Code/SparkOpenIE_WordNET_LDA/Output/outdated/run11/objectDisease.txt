@@ -1,0 +1,17 @@
+Disease,triple-negativeBreastCancers
+Disease,breastCancerDetection
+Disease,breastCancers
+Disease,breastTumor
+Disease,CBC
+Disease,prolactinomas
+Disease,chestWallLesions
+Disease,lungCancer
+Disease,cancerCell-relatedComponents
+Disease,cancer
+Disease,breastCancerDiagnosis
+Disease,seromaProduction
+Disease,pituitaryAdenomas
+Disease,chestWallDisease
+Disease,breastCancer
+Disease,PA
+Disease,prolactinoma

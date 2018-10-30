@@ -1,0 +1,100 @@
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+very:identical,precise,same,selfsame
+complex:Electra complex,Oedipal complex,Oedipus complex,U308,acceptor,acid,adduct,affect,affection,affectionateness
+heterogeneous:assorted,different,disparate,diversified,heterogenous,inhomogeneous,miscellaneous,mixed,motley,nonuniform
+disease:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,aeroembolism,ague,air embolism,amyloidosis,animal disease
+variable:Crown,accolade,amount,argument,award,binary,binary star,binomial,body of water,brand
+molecular:
+clinical:nonsubjective,objective
+identification:LTM,STM,absolution,ambiance,ambience,amyotonia,anchorage,argument,ascendance,ascendancy
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+enable:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,accustom,acerbate
+effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+numerous:legion,many
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+developed:formulated,highly-developed,improved,industrial,mature,matured
+some:any,both,extraordinary,few,many,much,several,whatever,whatsoever
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+already:
+applied:forensic,practical
+clinical:nonsubjective,objective
+several:different,individual,respective,single,some,various
+representative:Darwinian,Gnostic,Jansenist,Maoist,Marxist,Member of Parliament,Parliamentarian,Platonist,Thatcherite,acquaintance
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+value:GDP,GNP,argument,beau ideal,book value,chance,characteristic root of a square matrix,chroma,chromaticity,clocking
+separately:individually,on an individual basis,one by one,severally,singly
+ability:Midas touch,accomplishment,accuracy,acquirement,acquisition,adaptability,adequacy,air,amorality,appearance
+prognosis:differential diagnosis,divination,extropy,financial forecast,forecast,fortunetelling,horoscope,medical prognosis,meteorology,prophecy
+prediction:Bill of Rights,account,adumbration,agreement,amendment,analysis,analytic thinking,announcement,annunciation,answer
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+originally:earlier,in the beginning,in the first place,primitively,to begin with
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+many:galore(,legion,many a,many an,many another,more,numerous,some,umpteen,umteen
+collected:composed,equanimous,gathered,poised,self-collected,self-contained,self-possessed
+originally:earlier,in the beginning,in the first place,primitively,to begin with
+designed:fashioned,intentional
+predict:anticipate,augur,auspicate,bet,betoken,bode,calculate,call,forebode,forecast
+estrogen:DES,Estronol,adrenal cortical steroid,anabolic steroid,androgen,androgenic hormone,corticoid,corticosteroid,diethylstilbestrol,diethylstilboestrol
+receptor:alpha receptor,alpha-adrenergic receptor,alpha-adrenoceptor,alveolar bed,anlage,apodeme,aster,ball,baroreceptor,beta receptor
+positive:Gram-positive,advantageous,affirmative,affirmatory,certain,charged,cocksure,confident,confirming,constructive
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+whole:complete,entire,full,full-length,full-page,hale,healthy,intact,integral,livelong
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+there:at that place,in that location,in that respect,on that point,thither
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+no:no more
+typical:characteristic,distinctive,emblematic,exemplary,normal,regular,representative,true,typic,veritable
+used:exploited,ill-used,in use,misused,old,put-upon,secondhand,utilised,utilized,victimised
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+prediction:Bill of Rights,account,adumbration,agreement,amendment,analysis,analytic thinking,announcement,annunciation,answer
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+specific:ad hoc,circumstantial,limited,particular,particularised,particularized,peculiar,precise,proper(,special
+population:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+intrinsic:built-in,constitutional,essential,inalienable,inbuilt,inherent,inner,integral,internal,intimate
+thus:hence,so,thence,therefore,thusly
+attempted:unsuccessful
+identify:abstract,announce,apply,appreciate,assess,call,capitalise,capitalize,charge,come back
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+computational:
+framework:Copernican system,M-theory,Ptolemaic system,Zimmer,Zimmer frame,airframe,arbor,arbour,architecture,assumption
+patient:affected role,agent,agentive role,alexic,analysand,anorectic,anorexic,arthritic,benefactive role,beneficiary
+both:some
+discovery:abidance,acquiring,action,activity,actuation,assessment,assumption,breakthrough,catching,causation
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+independent:autarkic,autarkical,autonomous,breakaway,case-by-case,commutative,fissiparous,free,free-living,indie
+data:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+confirmed:official,unchangeable
+signature:DBA,Doing Business As,John Hancock,accidental,agnomen,alias,allograph,anonym,appellation,appellative
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+strong:alcoholic,beardown,beefed-up,brawny,bullnecked,bullocky,effective,effectual,efficacious,equipotent
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+independent:autarkic,autarkical,autonomous,breakaway,case-by-case,commutative,fissiparous,free,free-living,indie
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+factor:Fibonacci number,Fibonacci sequence,RF,X-linked gene,Y-linked gene,account executive,account representative,accountant,addend,aetiology
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+corresponding:comparable,like,related,related to,same,similar
+indicate:account,acquaint,advise,air,announce,annunciate,apprise,apprize,argue,augur
+prognostic:auspice,death knell,foreboding,omen,portent,presage,prodigy,prognostication,war cloud
+signature:DBA,Doing Business As,John Hancock,accidental,agnomen,alias,allograph,anonym,appellation,appellative
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+much:a good deal,a great deal,a lot,lots,often,practically,very much
+higher:high
+resolution:Bill of Rights,account,acoustic phenomenon,activeness,activity,adamance,agreement,alternative,amendment,announcement
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+lead:AZ,Al,Am,Ba,Be,Bi,Bk,Ca,Cd,Ce
+improved:better,built,cleared,developed,landscaped,reinforced
+precision:minuteness,preciseness,trueness
+medicine:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,Feosol,Fergon,Fosamax,HAART
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
