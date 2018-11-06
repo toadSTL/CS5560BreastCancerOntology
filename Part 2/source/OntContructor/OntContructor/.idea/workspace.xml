@@ -2,47 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350f8dbd-ba3f-4d8d-9bbc-419c4e066b98" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Outdated/run2/Classes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outdated/run2/Individuals" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outdated/run2/ObjectProperties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outdated/run2/SubClasses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outdated/run2/Triplets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/stopwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/ObjectProperties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubClasses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectMutation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predChem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predMut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/test/CodeFromCameronForComparison/SparkWordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../documentation/Project Report 2 Final.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../documentation/Project Report 2 Final.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../documentation/Project Report 2a.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../documentation/Project Report 2a.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../documentation/~WRL1516.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BreastCancer.owl" beforeDir="false" afterPath="$PROJECT_DIR$/Outdated/run2/BreastCancer.owl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Individuals" beforeDir="false" afterPath="$PROJECT_DIR$/data/Individuals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/data/ObjectProperties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/data/SubClasses" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Triplets" beforeDir="false" afterPath="$PROJECT_DIR$/data/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16705a6b9773337ff666$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16705a6b9773337ff666$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16705a6b9773337ff666.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16705a6b9773337ff666.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$23e11424c670c2e0ab3b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$48ec67a51bb29139cef8$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$48ec67a51bb29139cef8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$48ec67a51bb29139cef8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$48ec67a51bb29139cef8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$88be29d83eee9584b3e8$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$88be29d83eee9584b3e8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$88be29d83eee9584b3e8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$88be29d83eee9584b3e8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e1ff173b38a701cbd824$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e1ff173b38a701cbd824$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e1ff173b38a701cbd824.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e1ff173b38a701cbd824.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-ontcontructor-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
@@ -56,158 +70,25 @@
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/OntContructorMain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OntContructorMain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-ontcontructor_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Objects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Objects.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Predicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Predicates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Outdated/run2/DataProperties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectDisease.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectGene.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Individuals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectOther.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectSpecies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Subjects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Subjects.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Triplets.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectChemical.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectDisease.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectGene.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectOther.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectSpecies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predChem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectChemical.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predDis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predDis.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predGene.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predMut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectMutation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predOth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predOth.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predSpec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predSpec.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/CoreNLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/CoreNLP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/CoreNLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/CoreNLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$100.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$101.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$101.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$102.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$102.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$103.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$103.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$104.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$104.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$105.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$105.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$106.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$106.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$107.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$107.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$108.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$109.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$109.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$110.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$110.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$111.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$111.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$112.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$112.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$113.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$113.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$114.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$114.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$115.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$115.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$116.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$116.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$117.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$117.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$118.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$118.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$37.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$38.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$39.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$40.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$41.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$42.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$43.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$43.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$44.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$44.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$45.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$45.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$46.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$47.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$47.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$48.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$48.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$49.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$49.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$50.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$51.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$52.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$52.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$53.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$54.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$54.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$55.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$55.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$56.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$56.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$57.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$57.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$58.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$58.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$59.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$60.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$60.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$61.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$62.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$63.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$63.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$64.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$64.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$65.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$66.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$66.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$67.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$68.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$68.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$69.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$69.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$70.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$70.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$71.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$71.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$72.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$72.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$73.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$73.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$74.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$74.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$75.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$75.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$76.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$76.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$77.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$77.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$78.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$78.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$79.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$79.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$80.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$81.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$81.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$82.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$82.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$83.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$83.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$84.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$84.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$85.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$85.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$86.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$86.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$87.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$87.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$88.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$88.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$89.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$89.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$90.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$90.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$91.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$91.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$92.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$92.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$93.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$93.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$94.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$94.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$95.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$95.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$96.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$96.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$97.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$97.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$98.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$98.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$99.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$99.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$prepString$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$prepString$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -296,13 +177,27 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-792655596">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
+            <state relative-caret-position="459">
               <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
@@ -329,7 +224,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/OntoStats.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="85">
               <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -341,8 +236,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/Triplets">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="628" column="36" lean-forward="true" selection-start-line="628" selection-start-column="36" selection-end-line="628" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="628" column="36" selection-start-line="628" selection-start-column="36" selection-end-line="628" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -374,7 +269,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -399,11 +294,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="894" />
-    <option name="y" value="30" />
-    <option name="width" value="1210" />
-    <option name="height" value="1018" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -411,8 +305,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -476,6 +368,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,7 +378,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540872828835" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -634,11 +528,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="ontcontructor [file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownICPSubmission/ICP8/OntContructor/OntContructor/]" />
+                <option name="name" value="ontcontructor [file:/D:/Users/Gregory/Documents/GitHub/CS5560BreastCancerOntology/Part%202/source/OntContructor/OntContructor/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="ontcontructor-build [file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownICPSubmission/ICP8/OntContructor/OntContructor/]" />
+                <option name="name" value="ontcontructor-build [file:/D:/Users/Gregory/Documents/GitHub/CS5560BreastCancerOntology/Part%202/source/OntContructor/OntContructor/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -674,17 +568,17 @@
       <workItem from="1540427174997" duration="5609000" />
       <workItem from="1540582171604" duration="593000" />
       <workItem from="1540868812032" duration="1843000" />
+      <workItem from="1541483690917" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32449000" />
+    <option name="totallyTimeSpent" value="33067000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28837952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29157782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -924,13 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/SubClasses">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/Classes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -946,16 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Outdated/family.owl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/DataProperties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -970,12 +847,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preData/Triplets.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
+        <state relative-caret-position="459">
           <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
@@ -989,9 +863,12 @@
     <entry file="file://$PROJECT_DIR$/Outdated/run2/BreastCancer.owl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/preData/Triplets.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/OntoStats.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="85">
           <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -999,10 +876,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/DataProperties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outdated/family.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/Triplets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="628" column="36" lean-forward="true" selection-start-line="628" selection-start-column="36" selection-end-line="628" selection-end-column="36" />
+        <state relative-caret-position="374">
+          <caret line="628" column="36" selection-start-line="628" selection-start-column="36" selection-end-line="628" selection-end-column="36" />
         </state>
       </provider>
     </entry>

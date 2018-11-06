@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5">
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/Q2Query/Q2Query/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/FinanceAi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_github_andrewoma_dexx_collection_0_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_github_ben_manes_caffeine_caffeine_2_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_github_jsonld_java_jsonld_java_0_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_github_vsonnier_hppcrt_0_7_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_0_18_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_google_guava_guava_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__commons_cli_commons_cli_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__commons_io_commons_io_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__joda_time_joda_time_2_9_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sf_trove4j_trove4j_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_jfact_5_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_api_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_apibinding_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_compatibility_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_distribution_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_impl_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_oboformat_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_parsers_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_rio_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_tools_5_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_commons_commons_compress_1_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_commons_commons_csv_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_commons_commons_rdf_api_0_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_fluent_hc_4_5_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_cache_4_5_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_osgi_4_5_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_nio_4_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_osgi_4_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_jena_jena_arq_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_jena_jena_base_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_jena_jena_core_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_jena_jena_iri_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_jena_jena_shaded_guava_3_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_apache_thrift_libthrift_0_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_codehaus_mojo_animal_sniffer_annotations_1_14_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_model_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_api_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_binary_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_datatypes_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_jsonld_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_languages_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_n3_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_nquads_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_ntriples_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfjson_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfxml_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trig_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trix_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_turtle_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_util_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_6_32_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/libraries/sbt__org_tukaani_xz_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/modules/SparqlQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/modules/sparqlquery-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/Data/BreastCancer.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP10/SparqlQuery/SparqlQuery/Data/Thesaurus.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstracts/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Outdated Abstracts/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/Individuals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/Triplets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predChem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predMut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/test/CodeFromCameronForComparison/SparkWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstracts/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abstracts/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/TF_IDF_Bigram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/TF_IDF_Bigram.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/TF_IDF_Out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/TF_IDF_Out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/TF_IDF_Trigram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/TF_IDF_Trigram.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/CoreNLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/CoreNLP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/W2V.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CoreNLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CoreNLP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_Lemmas$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$3$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$$anonfun$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF_NGRAM$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2$$anonfun$apply$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/W2V$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/ICP8SparkOpenIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/ICP8SparkOpenIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/BreastCancer.owl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/BreastCancer.owl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/Individuals" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/Triplets" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/data/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/scala-2.12/classes/OntContructorMain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/scala-2.12/classes/OntContructorMain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Objects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Objects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Predicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Predicates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/Outdated/run2/DataProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Subjects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Subjects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/Triplets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/objectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predChem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predDis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predDis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predMut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/SubjectMutation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predOth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predOth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predSpec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/current run/predSpec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/CoreNLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/CoreNLP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/CoreNLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/CoreNLP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$100.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$101.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$101.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$102.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$103.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$103.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$104.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$104.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$105.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$106.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$106.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$107.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$108.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$109.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$109.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$110.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$111.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$112.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$112.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$113.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$114.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$115.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$115.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$116.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$117.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$117.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$118.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$118.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$37.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$38.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$39.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$40.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$41.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$42.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$43.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$44.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$45.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$46.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$47.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$48.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$49.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$50.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$51.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$51.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$52.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$53.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$54.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$54.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$55.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$55.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$56.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$57.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$57.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$58.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$58.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$59.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$59.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$60.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$61.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$61.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$62.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$62.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$63.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$63.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$64.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$65.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$65.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$66.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$66.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$67.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$67.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$68.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$68.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$69.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$69.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$70.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$70.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$71.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$71.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$72.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$72.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$73.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$73.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$74.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$75.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$76.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$77.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$77.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$78.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$79.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$80.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$81.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$81.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$82.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$82.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$83.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$84.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$84.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$85.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$85.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$86.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$86.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$87.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$87.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$88.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$88.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$89.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$89.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$90.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$91.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$91.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$92.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$92.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$93.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$93.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$94.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$94.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$95.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$95.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$96.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$96.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$97.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$97.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$98.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$99.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$99.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$prepString$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$prepString$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Spark_TFIDF_W2V" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="791830559">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="scala" value="4301" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scala" value="4301" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TF_IDF_Lemmas_Out" value="1" />
+          <entry key="TF_IDF_Out" value="2" />
+          <entry key="java" value="1" />
+          <entry key="parquet" value="3" />
+          <entry key="part-00000" value="2" />
+          <entry key="sample" value="1" />
+          <entry key="scala" value="22" />
+          <entry key="test" value="1" />
+          <entry key="text8" value="1" />
+          <entry key="txt" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="82" />
+          <entry key="Scala" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+    <session id="987695526">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TF_IDF_Out" value="1" />
+          <entry key="java" value="2" />
+          <entry key="sbt" value="1" />
+          <entry key="scala" value="9" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Scala" value="9" />
+          <entry key="sbt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="scala" value="441" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Scala" value="441" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/TF_IDF_Out.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/new/TF_IDF_Lemmas.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="889">
+              <caret line="79" column="23" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/TF_IDF_Bigram.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/TF_IDF_Trigram.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abstracts/1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="412" selection-start-column="412" selection-end-column="412" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abstracts/2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abstracts/20.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="114" selection-start-column="114" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abstracts/19.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1655" selection-start-column="1652" selection-end-column="1655" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>with not</find>
+      <find>history of</find>
+      <find>1000</find>
+      <find>print</find>
+      <find>lemmas</find>
+      <find>systemic therapy</find>
+      <find>replace</find>
+      <find>println</find>
+      <find>(PA)</find>
+      <find>coreN</find>
+      <find>TFIDF</find>
+      <find>bc</find>
+      <find>,</find>
+      <find>,,</find>
+      <find>breast</find>
+      <find>breast cancer</find>
+      <find>production</find>
+      <find>low-dose</find>
+      <find>68Ga-pen</find>
+      <find>Ctn</find>
+      <find>MSOT</find>
+      <find>MODE</find>
+      <find>MODe,</find>
+      <find>SUVmax</find>
+      <find>months</find>
+      <find>barcode</find>
+      <find>shearlet</find>
+      <find>cancer</find>
+      <find>visually</find>
+      <find>OS,</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/output/TF_IDF_Out" />
+        <option value="$PROJECT_DIR$/output/TF_IDF_Lemmas_Out" />
+        <option value="$PROJECT_DIR$/data/stopwords.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/NGRAM.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V_MedWords.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V_NGRAM.scala" />
+        <option value="$PROJECT_DIR$/data/test" />
+        <option value="$PROJECT_DIR$/abstracts/3.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V_TriGRAM.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V_Lemmas.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CoreNLP.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/W2V.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="abstracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_tfidf_w2v" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_TFIDF_W2V" type="462c0819:PsiDirectoryNode" />
+              <item name="W2V" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541492321651" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP5\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts\a" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP5\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP5\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data\Outdated Abstracts" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\output\previousOutputs" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\data" />
+      <recent name="C:\Users\Gregory\Desktop\Official\UMKC\CS5560\Spark_TFIDF_W2V\Spark_TFIDF_W2V\abstracts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TF_IDF">
+    <configuration name="TF_IDF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TF_IDF_Lemmas" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF_Lemmas" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TF_IDF_NGRAM" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF_NGRAM" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W2V_BiGRAM" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="W2V_BiGRAM" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W2V_TriGRAM" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="W2V_TriGRAM" />
+      <module name="spark_tfidf_w2v" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.W2V_BiGRAM" />
+      <item itemvalue="Application.W2V_TriGRAM" />
+      <item itemvalue="Application.TF_IDF" />
+      <item itemvalue="Application.TF_IDF_Lemmas" />
+      <item itemvalue="Application.TF_IDF_NGRAM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TF_IDF" />
+        <item itemvalue="Application.TF_IDF_NGRAM" />
+        <item itemvalue="Application.TF_IDF_Lemmas" />
+        <item itemvalue="Application.W2V_TriGRAM" />
+        <item itemvalue="Application.W2V_BiGRAM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Spark_TFIDF_W2V" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark_tfidf_w2v" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark_tfidf_w2v-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3074944494943" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="649353" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2920355924" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="" />
+      <created>1537146713187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537146713187</updated>
+      <workItem from="1537146714638" duration="148000" />
+      <workItem from="1537472296365" duration="2703000" />
+      <workItem from="1537475618194" duration="1680000" />
+      <workItem from="1537895693872" duration="21788000" />
+      <workItem from="1538263270620" duration="27159000" />
+      <workItem from="1538366777860" duration="38000" />
+      <workItem from="1538766817281" duration="6087000" />
+      <workItem from="1539286106131" duration="956000" />
+      <workItem from="1539872436472" duration="293000" />
+      <workItem from="1539873206827" duration="1043000" />
+      <workItem from="1539875185434" duration="599000" />
+      <workItem from="1539876541605" duration="2748000" />
+      <workItem from="1540333716688" duration="598000" />
+      <workItem from="1540427176495" duration="743000" />
+      <workItem from="1541188891714" duration="1276000" />
+      <workItem from="1541190266059" duration="761000" />
+      <workItem from="1541192232143" duration="2732000" />
+      <workItem from="1541201478703" duration="2211000" />
+      <workItem from="1541274007843" duration="2587000" />
+      <workItem from="1541483849988" duration="6431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82581000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930653" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49930653" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006935" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="SBT Execute" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" visible="true" weight="0.1130064" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/TF_IDF_Trigram.txt" />
+    <entry file="file://$PROJECT_DIR$/myModelPath/metadata/part-00000" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Spark_TFIDF_W2V.zip/Spark_TFIDF_W2V/src/main/scala/W2V.scala" />
+    <entry file="file://$PROJECT_DIR$/myModelPath/data/part-00000-aba0e9ae-ea2a-4faf-abe0-44375b179f3e-c000.snappy.parquet" />
+    <entry file="file://$PROJECT_DIR$/myModelPath/data/part-00000-54249bdb-3173-438a-bda9-ee1d2d5d9232-c000.snappy.parquet" />
+    <entry file="file://$PROJECT_DIR$/data/test" />
+    <entry file="file://$PROJECT_DIR$/data/text8" />
+    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="369" column="7" selection-start-line="369" selection-start-column="7" selection-end-line="369" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sample" />
+    <entry file="file://$PROJECT_DIR$/data/Article.txt" />
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF_Bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/9.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/W2V_lemmas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="260" selection-start-column="244" selection-end-column="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/TF_IDF_Bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/TF_IDF_Lemmas.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/TF_IDF_Out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/TF_IDF_Trigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/W2V.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1211" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/previousOutputs/W2V_bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="96" column="38" lean-forward="true" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF_Out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/W2V_trigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/W2V_bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Outdated Abstracts/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="207" selection-start-column="189" selection-end-column="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/W2V_lemmas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/W2V.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_TriGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_Lemmas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/TF_IDF_Lemmas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_NGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/TF_IDF_Trigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/TF_IDF_Out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/new/TF_IDF_Lemmas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstracts/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="412" selection-start-column="412" selection-end-column="412" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstracts/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstracts/20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="114" selection-start-column="114" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstracts/19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1655" selection-start-column="1652" selection-end-column="1655" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/TF_IDF_Bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spark_tfidf_w2v</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: aopalliance:aopalliance:1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

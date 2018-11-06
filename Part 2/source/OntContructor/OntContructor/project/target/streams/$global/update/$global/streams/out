@@ -1,4 +1,4 @@
-[info] Updating {file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownICPSubmission/ICP8/OntContructor/OntContructor/project/}ontcontructor-build...
+[info] Updating {file:/D:/Users/Gregory/Documents/GitHub/CS5560BreastCancerOntology/Part%202/source/OntContructor/OntContructor/project/}ontcontructor-build...
 [debug] :: resolving dependencies :: default#ontcontructor-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6070,19 +6070,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 853ms :: artifacts dl 27ms
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT compile produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-compile.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT runtime produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-runtime.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT test produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-test.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT provided produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-provided.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT optional produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-optional.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT compile-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-compile-internal.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT runtime-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-runtime-internal.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT test-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-test-internal.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT plugin produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-plugin.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT sources produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-sources.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT docs produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-docs.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT pom produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-pom.xml
-[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT scala-tool produced in D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-scala-tool.xml
-[debug] 	resolve done (853ms resolve - 27ms download)
+[debug] :: resolution report :: resolve 1209ms :: artifacts dl 64ms
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT compile produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-compile.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT runtime produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-runtime.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT test produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-test.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT provided produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-provided.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT optional produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-optional.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT compile-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-compile-internal.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT runtime-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-runtime-internal.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT test-internal produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-test-internal.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT plugin produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-plugin.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT sources produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-sources.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT docs produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-docs.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT pom produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-pom.xml
+[debug] 	report for default#ontcontructor-build;0.1-SNAPSHOT scala-tool produced in D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\OntContructor\OntContructor\project\target\resolution-cache\reports\default-ontcontructor-build-scala-tool.xml
+[debug] 	resolve done (1209ms resolve - 64ms download)
 [info] Done updating.

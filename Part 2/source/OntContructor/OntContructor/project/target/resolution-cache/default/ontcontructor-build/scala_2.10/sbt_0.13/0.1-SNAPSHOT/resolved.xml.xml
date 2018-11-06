@@ -4,7 +4,7 @@
 		module="ontcontructor-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20181018143637"
+		publication="20181105235512"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

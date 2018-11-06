@@ -4,7 +4,7 @@
 		module="ontcontructor$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20181029220706"
+		publication="20181105235526"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

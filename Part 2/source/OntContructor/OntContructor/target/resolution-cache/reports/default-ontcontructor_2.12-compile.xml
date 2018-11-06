@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20181018143642"/>
+		date="20181105235523"/>
 	<dependencies>
 		<module organisation="net.sourceforge.owlapi" name="owlapi-distribution">
 			<revision name="5.1.0" status="release" pubdate="20170329183953" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
