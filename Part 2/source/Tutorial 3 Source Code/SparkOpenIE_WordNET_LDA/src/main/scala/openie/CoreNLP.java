@@ -16,47 +16,127 @@ public class CoreNLP {
         //System.out.println("this Happened");
         Document doc = new Document(sentence);
         String triplets="";
-        for (Sentence sent : doc.sentences()) {  // Will iterate over two sentences
+        List<Sentence> sentences = doc.sentences();
+//        System.out.println(sentences);
+//        System.out.println(sentences.size());
+        int count = 0;
+        String acc = "";
+        for (Sentence sent : sentences) {  // Will iterate over two sentences
+            acc+="[";
+            count++;
             //System.out.println("for sentence: " +sent);
-            Collection<Quadruple<String, String, String, Double>> l=sent.openie();
+            Collection<Quadruple<String, String, String, Double>> s=sent.openie();
+//            System.out.println("Sentence: "+sent);
             String temp = "";
             String longest = "";
             String shortest = "";
+
+            String custom = "";
 
             String pred = "";
             String sub = "";
             String obj = "";
 
             String shortPredTemp = "";
-            String longPredTemp = "";
 
-            String shortSubTemp = "";
-            String longSubTemp = "";
+            double maxValue = 0.0;
 
-            String shortObjTemp = "";
-            String longObjTemp = "";
 
-            for (int i = 0; i < l.toArray().length ; i++) {
-                Object[] tempArr = l.toArray();
+
+            String spSub = "";
+            String spObj = "";
+            double spVal = 0.0;
+            for (int i = 0; i < s.toArray().length ; i++) {
+                Object[] tempArr = s.toArray();
+                Quadruple<String,String,String,Double> quad = (Quadruple<String, String, String, Double>) tempArr[i];
                 temp = tempArr[i].toString();
-                System.out.println(temp);
-                String[] tempFields = temp.replaceAll("\\(", "").replaceAll("\\)", "").split(",");
-                sub = tempFields[0];
-                pred = tempFields[1];
-                obj = tempFields[2];
-                System.out.println(tempFields[0]);
-                System.out.println(tempFields[1]);
-                System.out.println(tempFields[2]);
-                System.out.println(tempFields[3]);
-                triplets+= l.toString();
-                //System.out.println(i);
-                System.out.println(l.toString());
-                //System.out.println("openie returned: " + lemma);
-            }
-            //System.out.println(lemma);
-        }
+                //System.out.println(temp);
+//                String[] tempFields = temp.replaceAll("\\(", "").replaceAll("\\)", "").split(",");
+                sub = quad.first;
+                pred = quad.second;
+                obj = quad.third;
 
-        return triplets;
+                if(quad.fourth>=maxValue){
+                    maxValue = quad.fourth;
+                    if(shortPredTemp.length() == 0){
+                        shortPredTemp = pred;
+                        spSub = sub;
+                        spObj = obj;
+                        spVal = quad.fourth;
+                        custom = "("+spSub+","+shortPredTemp+","+spObj+","+spVal+")";
+                    }
+                    if(pred.length() == shortPredTemp.length()){
+                        if((sub.length()>spSub.length()&&obj.length()>=spObj.length())||(sub.length()>=spSub.length()&&obj.length()>spObj.length())){
+                            shortPredTemp = pred;
+                            spSub = sub;
+                            spObj = obj;
+                            spVal = quad.fourth;
+                            custom = "("+spSub+","+shortPredTemp+","+spObj+","+spVal+")";
+                        }
+                    }
+                    if(pred.length() < shortPredTemp.length()){
+                        shortPredTemp = pred;
+                        spSub = sub;
+                        spObj = obj;
+                        spVal = quad.fourth;
+                        custom = "("+spSub+","+shortPredTemp+","+spObj+","+spVal+")";
+                    }
+
+                    if(shortest.length() == 0){
+                        shortest = temp;
+                    }
+                    if(temp.length() < shortest.length()){
+                        shortest = temp;
+                    }
+                    if(temp.length() > longest.length()){
+                        longest = temp;
+                    }
+                }
+
+
+
+//                System.out.println("Subject: "+tempFields[0]);
+//                System.out.println("Predicate: "+tempFields[1]);
+//                System.out.println("Object: "+tempFields[2]);
+//                System.out.println("Score: "+tempFields[3]);
+//
+//                System.out.println("TripletAdded: "+s.toString());
+//                acc += tempArr[i].toString()+", ";
+            }
+//            System.out.println("Shortest Sub: "+ shortSubTemp);
+//            System.out.println("Longest Sub: "+longSubTemp);
+//            System.out.println("Shortest Pred: "+shortPredTemp);
+//            System.out.println("Longest Pred: "+longPredTemp);
+//            System.out.println("Shortest obj: "+shortObjTemp);
+//            System.out.println("Longest obj: "+longObjTemp);
+//            System.out.println("Shortest overall: "+shortest);
+//            System.out.println("Custom: ("+spSub+","+shortPredTemp+","+spObj+","+spVal+")");
+//            System.out.println("Longest overall: "+longest);
+
+            acc += shortest+", ";
+            if(!custom.equals(shortest)){
+                acc +=custom+", ";
+            }
+            if(!longest.equals(custom)){
+                acc +=longest;
+            }
+
+//            System.out.println(acc.substring(acc.length()-2,acc.length()));
+            if(acc.length()>2){
+                if(acc.substring(acc.length()-2,acc.length()).equals(", ")){
+                    acc = acc.substring(0,acc.length()-2);
+                }
+            }
+            acc+="]";
+//            System.out.println("Accumulated Triplets:  \n"+acc);
+//            triplets+= s.toString();
+//            System.out.println("All Triplets:  \n"+triplets);
+
+        }
+        return acc;
+//        System.out.println(count);
+//        System.out.println("Triplets Returned:  \n"+triplets);
+//        return triplets;
     }
 
     public static String returnLemma(String sentence) {

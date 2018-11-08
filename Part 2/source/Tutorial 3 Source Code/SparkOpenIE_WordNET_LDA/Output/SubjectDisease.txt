@@ -2,7 +2,6 @@ Disease,lungCancer
 Disease,cancer
 Disease,breastCancerDiagnosis
 Disease,lungCancer
-Disease,tumour
 Disease,acromegaly
 Disease,colorectalCancer
 Disease,seromaProduction

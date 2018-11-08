@@ -1,0 +1,6 @@
+Disease,prolactinomas
+Disease,seromaProduction
+Disease,PA
+Disease,prolactinoma
+Disease,breastCancer
+Disease,pituitaryAdenomas

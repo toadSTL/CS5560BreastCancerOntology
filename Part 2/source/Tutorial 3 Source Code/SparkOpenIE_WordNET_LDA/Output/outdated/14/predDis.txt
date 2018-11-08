@@ -1,0 +1,9 @@
+wasReportedWith,Disease,Other,Func
+wasReported,Disease,Other,Func
+amountOfWas,Disease,Other,Func
+medianAmountOfWas,Disease,Other,Func
+was,Disease,Other,Func
+isIn,Disease,Other,Func
+wasSignificantlyHigherThan,Disease,Other,Func
+wasHigherThan,Disease,Other,Func
+wasReportedIn,Disease,Other,Func
