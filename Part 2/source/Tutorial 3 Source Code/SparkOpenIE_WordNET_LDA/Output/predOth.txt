@@ -9,8 +9,6 @@ treated,Other,Species,Func
 present,Other,Species,Func
 isIn,Other,Species,Func
 isIn,Other,Gene,Func
-
-
 classifyImagesInto,Other,Other,Func
 areFactors,Other,Other,Func
 indicates,Other,contrast,Func

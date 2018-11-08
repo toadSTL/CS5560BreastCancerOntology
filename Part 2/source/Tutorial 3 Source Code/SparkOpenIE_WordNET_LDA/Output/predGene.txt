@@ -1,7 +1,3 @@
 overexpressedIn,Gene,Disease,Func
-
-
-
-
 frequentlyOverexpressedIn,Gene,Other,Func
 overexpressedIn,Gene,Other,Func

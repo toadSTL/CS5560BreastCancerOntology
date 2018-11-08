@@ -33,7 +33,7 @@ object SparkOpenIE3 {
 
     val classes = TF_IDF_SynArr.map(a => a(0)).collect.mkString("\n")
 
-    val pwClasses = new PrintWriter(new File("classes.txt"))
+    val pwClasses = new PrintWriter(new File("output/classes.txt"))
     pwClasses.print("Chemical\nDisease\nGene\nMutation\nOther\nSpecies\n"+classes)
     pwClasses.close
 

@@ -1,0 +1,15 @@
+isDiseaseNextTo,Disease,Disease,Func
+isRecognizedAs,Disease,Disease,Func
+is,Disease,Disease,Func
+isMostInvasiveDiseaseNextTo,Disease,Disease,Func
+isInvasiveDiseaseNextTo,Disease,Disease,FuncisMostCommonCancerAmong,Disease,Species,Func
+isCommonCancerIn,Disease,Species,Func
+isCancerAmong,Disease,Species,Func
+isMostCommonCancerIn,Disease,Species,Func
+isIn,Disease,Species,Func
+isCancerIn,Disease,Species,Func
+frequentlyOverexpressedIn,Gene,Disease,Func
+developed,Species,Disease,Func
+furthermoreWereDiagnosedWith,Species,Disease,Func
+isWith,Species,Disease,Func
+wereDiagnosedWith,Species,Disease,Func
