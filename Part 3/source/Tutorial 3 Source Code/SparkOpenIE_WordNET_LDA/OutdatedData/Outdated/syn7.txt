@@ -1,0 +1,117 @@
+neuroma:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+after:afterward,afterwards,later,later on,subsequently
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+surgery:D and C,ER,OR,PPP,Shirodkar's operation,UPPP,ablation,amputation,anaplasty,anechoic chamber
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+very:identical,precise,same,selfsame
+rare:extraordinary,infrequent,rarefied,rarified,raw,scarce,thin,uncommon
+clinical:nonsubjective,objective
+entity:abstract entity,abstraction,physical entity,thing
+only:alone,but,entirely,exclusively,just,merely,only if,only when,simply,solely
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+few:aristocracy,beau monde,bon ton,chosen,clerisy,cream,elect,high society,intelligentsia,nobility
+reported:according,notifiable,reportable
+herein:
+present:accord,account,acquaint,act,add,administer,advise,allot,allow,animalise
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+very:identical,precise,same,selfsame
+rare:extraordinary,infrequent,rarefied,rarified,raw,scarce,thin,uncommon
+case:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+traumatic:painful
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+neuroma:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+postmenopausal:
+patient:affected role,agent,agentive role,alexic,analysand,anorectic,anorexic,arthritic,benefactive role,beneficiary
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+who:Centre for International Crime Prevention,DCCP,FAO,Food and Agriculture Organization,Food and Agriculture Organization of the United Nations,GATT,General Agreement on Tariffs and Trade,IAEA,IBRD,ICAO
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+intractable:balking,balky,defiant,difficult,disobedient,noncompliant,obstinate,refractory,stubborn,uncontrollable
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+evaluation:acid test,adjudication,assay,bond rating,check,critical analysis,critical appraisal,disapproval,estimate,estimation
+management:Curia,acculturation,administration,appeasement,authorisation,authorization,auto limitation,bench,calming,canalisation
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+along:on
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+very:identical,precise,same,selfsame
+rare:extraordinary,infrequent,rarefied,rarified,raw,scarce,thin,uncommon
+benign:benignant,harmless,kind,kindly
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+reported:according,notifiable,reportable
+mainly:chiefly,in the main,primarily,principally
+after:afterward,afterwards,later,later on,subsequently
+literature:Sanskrit literature,adaptation,architecture,autograph,bowdlerisation,bowdlerization,classics,comparative literature,criticism,cryptogram
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+only:alone,but,entirely,exclusively,just,merely,only if,only when,simply,solely
+35:cardinal,thirty-five,xxxv
+traumatic:painful
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+28:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+reported:according,notifiable,reportable
+so:and so,and then,hence,indeed,then,thence,therefore,thus,thusly
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+indicative:declarative,indicatory,revealing,revelatory,significative,suggestive
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+benign:benignant,harmless,kind,kindly
+surgical:accurate,operative,postoperative,preoperative
+excision:D and C,PPP,Shirodkar's operation,UPPP,ablation,adenoidectomy,adrenalectomy,amputation,anaplasty,anathematisation
+necessary:essential,incumbent,indispensable,inevitable,needed,needful,obligatory,required,requisite
+obtain:Americanise,Americanize,accept,acetylate,acetylise,acetylize,acquire,adapt,adjust,adopt
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+definitive:authoritative,classic,classical,conclusive,determinate,explicit,expressed,standard,unequivocal
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+rule:Archimedes' principle,Avogadro's hypothesis,Avogadro's law,Benford's law,Bernoulli's law,Bertillon system,Bose-Einstein statistics,Boyle's law,Charles's law,Coulomb's Law
+out:KO'd,dead,down,exterior,extinct,forbidden,impermissible,impossible,kayoed,knocked out
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+recurrent:continual,perennial,repeated
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+feasible:executable,possible,practicable,viable,workable
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+properly:by rights,decent,decently,in good order,right,the right way
+selected:elect,elite
+asymptomatic:symptomless,well
+after:afterward,afterwards,later,later on,subsequently
+an:AA,AAS,AN,Associate in Applied Science,Associate in Arts,Associate in Nursing
+accurate:close,correct,dead on target,dead-on,exact,faithful,hi-fi,high-fidelity,precise,right
+tissue:Kleenex,abdomen,adnexa,ambulacrum,ampulla,anatomical structure,animal tissue,annexa,apparatus,appendage
+case:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+herein:
+necessity:body of water,building block,content,deficiency,depicted object,desideratum,essential,inessential,lack,must
+consider:abstract,accept,adjudge,admire,advise,anatomize,anticipate,appraise,appreciate,approve
+traumatic:painful
+neuroma:acanthoma,adipose tumor,angioma,benign tumor,benign tumour,blastocytoma,blastoma,brain tumor,brain tumour,carcinoid
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+differential:approximation,change,conversion,curvature,derivative,derived function,differentia,differential coefficient,differential gear,disagreement
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+surgery:D and C,ER,OR,PPP,Shirodkar's operation,UPPP,ablation,amputation,anaplasty,anechoic chamber
+refractory:disobedient,fractious,intractable,recalcitrant,stubborn,unresponsive
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+high:SPF,academy,amplitude level,birthplace,bliss,blissfulness,caliber,calibre,cloud nine,composite school
+index:A-list,BMI,Beaufort scale,FAQ,Mercalli scale,Mohs scale,Richter scale,agenda,agendum,annualry
+suspicion:arriere pensee,bosom,cloud,cold war,disbelief,distrust,effect,first blush,heart,hunch
+required:compulsory,mandatory,necessary,needed,needful,obligatory,requisite
+lesion:abrasion,acidosis,adenomyosis,adhesion,alkalosis,anchylosis,angiopathy,ankylosis,anoxemia,aphagia
+may:Apr,April,Aug,August,Crataegus aestivalis,Crataegus apiifolia,Crataegus biltmoreana,Crataegus calpodendron,Crataegus coccinea,Crataegus coccinea mollis
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+too:also,as well,besides,excessively,likewise,overly,to a fault
+small:atomic,bantam,belittled,bittie,bitty,decreased,diminished,diminutive,dinky,dwarfish
+can:Dumpster,W.C.,abdomen,acoustic buoy,adnexa,ambulacrum,ampulla,anatomical structure,anechoic chamber,annexa
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+missed:incomprehensible,lost,uncomprehensible
+on:along
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction

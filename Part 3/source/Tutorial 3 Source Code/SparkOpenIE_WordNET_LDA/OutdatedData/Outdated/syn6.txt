@@ -1,0 +1,29 @@
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+recent:late,new,past
+distinctive:characteristic,classifiable,identifiable,typical
+type:ASCII character,Adapid,Adapid group,Amentiferae,Centrospermae,Crown,Jack of all trades,Omomyid,Omomyid group,Phycomycetes
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+already:
+documented:attested,authenticated,echt,genuine,referenced,registered
+some:any,both,extraordinary,few,many,much,several,whatever,whatsoever
+meaningful:important,meaning,meaty,pregnant,purposeful,significant,substantive
+device:Cross,Kinetoscope,PTO,acoustic device,adapter,adaptor,aerofoil,afterburner,agglomerator,airfoil
+over:all over,o'er
+conventional:button-down,buttoned-down,ceremonious,conservative,customary,established,formal,formulaic,nonrepresentational,orthodox
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
+standard:American flag,Beaufort scale,Brix scale,Confederate flag,ERA,GDP,GNP,GPA,Jolly Roger,Old Glory
+electrosurgery:D and C,PPP,Shirodkar's operation,UPPP,ablation,amputation,anaplasty,angioplasty,arthroplasty,arthroscopy
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+mastectomy:adenoidectomy,adrenalectomy,appendectomy,appendicectomy,cholecystectomy,clitoridectomy,embolectomy,endarterectomy,enervation,female circumcision
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+conservative:blimpish,bourgeois,button-down,buttoned-down,buttoned-up,cautious,conventional,fusty,hidebound,materialistic
+purpose:adamance,aim,bourn,bourne,bullheadedness,cross-purpose,decision,decisiveness,design,destination
+test:abound,accept,account,account for,act,add up,adhere,adjudge,adorn,amount
+impact:Coriolis effect,affaire d'honneur,affray,aftereffect,aftermath,backwash,bandwagon effect,banging,battering,beating
+on:along
+process:Agenise,Agenize,act upon,action,add,add together,administer,administrate,aerate,air-condition
+on:along
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila

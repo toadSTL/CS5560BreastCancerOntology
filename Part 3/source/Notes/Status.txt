@@ -1,0 +1,10 @@
+Ceased retrieving further abstracts.
+
+Need to replace contents of 135.xml with something containing abstract tag to progress towards "1000" abstract search results.
+
+Currently fielding results of abstracts from PubMedIDs594.xt (it was a typo)
+
+PubMedIDs for removal is list of pub med Ids whos abstracts include "Background:"
+
+PubMedIDs68.txt has solid PubMedIDs (and the abstracts from these could be used for Lab3?/Ontology Creation?)
+

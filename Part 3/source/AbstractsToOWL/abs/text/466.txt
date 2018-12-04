@@ -1,0 +1,1 @@
+Breast cancer growth is generally expected to differ between tumor subtypes. We aimed to evaluate tumor doubling time (DT) using ultrasonography and verify whether each tumor subtype has a unique DT.

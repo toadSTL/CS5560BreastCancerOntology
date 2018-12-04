@@ -1,0 +1,4 @@
+who:Centre for International Crime Prevention,DCCP,FAO,Food and Agriculture Organization,Food and Agriculture Organization of the United Nations,GATT,General Agreement on Tariffs and Trade,IAEA,IBRD,ICAO
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+pathogenic:infective,morbific,unhealthful
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd

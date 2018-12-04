@@ -1,0 +1,17 @@
+furthermoreWereDiagnosedWith,Species,Disease,Func
+isWith,Species,Disease,Func
+wereDiagnosedWith,Species,Disease,Funcare,Species,Other,Func
+isWith,Species,Other,Func
+wereDiagnosedAt,Species,Other,Func
+areMoreCommonlyDiagnosedBefore,Species,Other,Func
+metInclusionCriteriaIn,Species,Other,Func
+met,Species,Other,Func
+were,Species,Other,Func
+areDiagnosedBefore,Species,Other,Func
+diagnosedLaterIn,Species,Other,Func
+areAt,Species,Other,Func
+received,Species,Other,Func
+furthermoreWereDiagnosedAt,Species,Other,Func
+isIn,Species,Other,Func
+areCommonlyDiagnosedBefore,Species,Other,Func
+diagnosedIn,Species,Other,Func

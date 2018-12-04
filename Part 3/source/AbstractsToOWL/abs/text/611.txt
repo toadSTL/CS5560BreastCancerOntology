@@ -1,0 +1,1 @@
+To determine whether breast cancer staging differs between high-resolution (HR) and standard-resolution (SR) PET/computed tomography acquisition.

@@ -1,0 +1,3251 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/mayanka/ontologies/2017/6/family#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/mayanka/ontologies/2017/6/family#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Chemical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Dissemination"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Ecuadorian"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Gene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Idiopathic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Mutation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Other"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PTMC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Vietnamese"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="absence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="all-cause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="altitude"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="assembly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="azoospermia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="brothers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="carcinoma"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="characteristics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cohort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="conditions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="direct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ejaculate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="evidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="helpful"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="high"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="histopathological"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="human"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="implications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="inhibitors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="invadopodia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="invadopodia-associated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="links"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="lower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="map"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mestizo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecular"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="network"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="non-obstructive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="novel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pieces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="population"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="populations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="potential"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="prevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="relationship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="risk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="self-examination"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="spermatogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="spermatozoa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="studies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ten"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecularLinksBetweenAssemblyInMouseModelsInPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="toxin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="negligibleNumberOfTrialsFocusingOnCancerMetastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="severalPotentialBreastNucleotidePolymorphismsInManyDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="severalPotentialBreastCancer-associatedNucleotidePolymorphismsInDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerDeathsInWomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssemblyInMouseModelsInHumanPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="lowerSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="article"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="sensitivityToPlatinum"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancerCell-relatedComponents"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="alterations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="consistent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="possibleAssociationBetweenNoncodingIntronicVariantRs3803304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="inferiorPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="promoterHypermethylation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastTumorigenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssembly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patientsUndergoing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="developmentOfApproaches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patterns"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="death"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="coxHazardModels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="severalPotentialBreastCancer-associatedSingleNucleotidePolymorphisms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="howAssociatedWithCharacteristicsInHighAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="inferiorEpigastricPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="newPerspectiveOnTumorInvasiveness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deathsWorldwide"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="onlyNumberOfProteins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromBreastTissueFromPatient"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="splice-awareAlignmentAlgorithmsInContextOfRnaVariant-callingAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer-specificSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastTumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="blood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rna-seqData"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rnaVariantAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="prolongedPreventiveTreatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="brca1PromoterHypermethylation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="proteins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="potentComplexes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="disadvantages"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="practice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="issues"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="helpfulImplicationsForTreatmentOfPatientsWithPtmc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="evolutionAssay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="subtypes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecularLinksBetweenAssemblyOfInvadopodia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="canPotentiallyUsed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directLinks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="potentCytotoxicity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInHighAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="synthesized"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="geneOntologyTermApoptoticSignalingPathway"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="dead"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="restOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastSelf-examination"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="invasionOfTumorCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="inStudyAppliedToTwoEstonianBrothersDiagnosed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="resistance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="compoundHeterozygousLoss-of-functionVariants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="overviewOfClinicalTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="aim"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="matrix"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="hormone"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="phosphorylates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="It"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="furtherClinicalValidation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="matchingForFactors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="defects"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="extracellularMatrix"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="linksBetweenAssemblyInMouseModelsInPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="recentPregnancy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breastCancers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="resistanceDevelopment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="presentStudy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="activatedAkt1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Infertility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="promptTreatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="treatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="researchers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="developmentOfNovelPrognosticApproaches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="increasedRiskForPatientsDiagnosed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Follow-up"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="relationshipBetweenSnps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="thanNon-tumorigenicCells"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breastTumor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pik3cah1047r-inducedMammaryTumorigenesis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="basedOn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecularEvolutionAssay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="expressionLevelOfKnownGenes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="short-termSupplementation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="anticancerActivity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="exhibits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="impactErbb3Snps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssemblyInHumanPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="DNA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="overviewOfMarkersForCancerMetastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="potentialBreastSingleNucleotidePolymorphismsInManyDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfInvasiveDuctalCarcinomaFromBreastTissue"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="incidenceOfCancerTypes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pathogenicVariants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="BRCA1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfCarcinomaFromBreastTissue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PI3Ki"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="possibleAssociationBetweenRs3803304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directLinksBetweenAssemblyInMouseModels"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associationsBetweenBreastCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="detected"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="dominantlyInherited5UtrVariantAssociated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="commonCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="expressionLevel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deaths"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="knowledge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="perforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="howAssociatedWithCharacteristicsInAltitudeEcuadorianMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="genomicSequencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfCarcinoma"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="newPerspectiveOnInvadopodia-mediatedTumorInvasiveness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="assemblyOfInvadopodiaInPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="updatedOverviewOfCurrentCancer-relatedClinicalTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="furtherValidation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="subgroupAnalyses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="2920Patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deepInferiorEpigastricPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="those"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="geneOntologyTermSignalingPathway"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="frequency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MEA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cinnamicAcidDimers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HER-family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="absenceOfSpermatozoaInEjaculateDueToSpermatogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="overviewOfCancer-relatedClinicalTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="taiwanNationalDeathCertificateDatabase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="use"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="RNA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="formsOfThyroidectomyApproaches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumorCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumorDevelopment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="normalCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="sequencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="howAssociatedInAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="outcome"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="numberOfTrialsFocusingOnCancerMetastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="lowerAll-causeSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="soma-wideBrca1PromoterHypermethylation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allCauseSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="overviewOfCurrentTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="proteinExpression/phosphorylation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="performanceOfAligners"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="potentialBreastCancer-associatedNucleotidePolymorphismsInDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="perspectiveOnInvadopodia-mediatedTumorInvasiveness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="recentEvidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patientDatabaseAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="networkInteractionMapOfInvadopodia-associatedProteins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cisplatin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="bioinformaticPatientDatabaseAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="assemblyInMouseModels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="RNAQuality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="theirSpread"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="brca1PromoterMethylation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="survivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfDuctalCarcinomaFromPatient"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isSecondLeadingCauseOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="initialResponse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="numerousBreastTumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="variants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deeplyControversial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="all-causeSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="twoEstonianBrothersDiagnosed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="recurrenceFreeSurvival"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="comparison"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cytotoxicActivity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="supplementation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="proteinExpression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rs121434592SingleNucleotidePolymorphisms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="leadingCauseOfMortalityInCancerPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pcrHigh-resolutionAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Invadopodia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="complexes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPieces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="developmentOfNovelApproaches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="validation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="poorSocioeconomicConditions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="linksBetweenAssemblyOfInvadopodiaInMouseModels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="yearPostpartum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directLinksBetweenAssembly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="addition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cooperation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecularLinksBetweenAssemblyOfInvadopodiaInHumanPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="possibleAssociationBetweenNoncodingVariantRs3803304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="estrogen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="updatedOverviewOfCurrentClinicalTrials"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="lungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="upregulated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="assemblyInHumanPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="calculated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SNPs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isCauseOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="families"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="downstreamSubstrates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="hazardRatios"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="updatedOverview"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="metastaticCancerCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deepPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="vietnamesePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="absenceInEjaculateDue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssemblyOfInvadopodiaInPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="greenSpaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="whole-exomeSequencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="compoundLoss-of-functionVariants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="elevatedProteinExpression/phosphorylation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breastCancerDiagnosis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="US"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NOA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="practiceOfBse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mainCause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithCharacteristicsInAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="significantCorrelationBetweenInvadopodia-associatedGenesToBreastCancerMetastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="effectOfGreenSpaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfDuctalCarcinomaFromBreastTissueFromSinglePatient"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="evolutionAssayLeading"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="receptorStatus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="frequencyOfMechanism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="loss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="conventionalThree-dimensionalRadiotherapy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="BreastCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="manyDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="howAssociatedWithCharacteristicsInHighAltitudeEcuadorianMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="care"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="twoEstonianBrothersDiagnosedWithNoa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mostPromisingDifferentiallyExpressedTargets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pregnancies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deathAmongWomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="evenMoreComplexProcess"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allelicLossOfBrca1ExpressionInFamilies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="prognosis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="molecularEvolutionAssayLeading"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Genotypes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="exhibited"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="incidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MCF-7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="popularAlignmentAlgorithms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssemblyOfInvadopodiaInMouseModelsInPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="weUsed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rareDefects"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="one"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="estrogenDependence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="networkInteractionMap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="non-obstructiveAzoospermia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rs121434592NucleotidePolymorphisms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="re-purposing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="helpfulImplicationsForTreatmentOfPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="profoundBim-dependentEffect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastCancerPatients"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="nervousSystems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="PI3K/AKT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pcrAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="bard1Snp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="idiopathicAzoospermia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="primaryPurpose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="increasedRiskOfMortalityForPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="identifiedIn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="clinicalValidation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="followingPopularSplice-awareAlignmentAlgorithms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerRelatedDeaths"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="leadingCause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="beneficialEffectOfGreenSpaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="severalPotentialBreastSingleNucleotidePolymorphismsInManyDifferentPopulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithCharacteristicsInAltitudeEcuadorianMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="certainPatterns"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="certainCinnamicAcidDimers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="We"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="medications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directLinksBetweenAssemblyInMouseModelsInHumanPatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="relationshipInVietnamesePopulationCase-controlCohort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="this"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="severalResistantMouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="smallNumber"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associationStudies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="invadopodia-associatedProteins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mostLikelyCause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Mechanisms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="epigeneticSilencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="profoundEffect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="91Women"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="riskForPatientsDiagnosed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breastSelf-examinationToolForPreventionOfBreastCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cellRedoxHomeostasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="majorCause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Cases"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="causeOfWas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="currentlyAvailableInhibitors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="newPerspective"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="implicationsForTreatmentOfPatientsWithPtmc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deepEpigastricPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="real-timePcrAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="3DCRT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="91AffectedWomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="networkInteractionMapOfInvadopodia-associatedProteinsWithAvailableInhibitors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="demonstrating"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="significantlyAffected"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="bh3Mimetics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="exhibit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="basedRegimen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="treatmentSchedule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer-relatedDeath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="abstracted"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allele"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromSinglePatient"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="relationshipBetweenSnpsInVietnamesePopulationCohort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="correlation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="kaplan-meierAnalyses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="combination"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="highAltitudeMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="overviewOfCurrentCancer-relatedTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="highestIncidenceOfCancerTypes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="poorConditions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="absenceOfSpermatozoaInEjaculate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="autologousReconstruction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumour"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="otherFormsOfThyroidectomyApproaches"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="epigastricPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ovarianCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="acidDimers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="increasedLevelsOfPhysicalActivity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="promptSupportiveTreatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInHighAltitudeEcuadorianMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mcf‑7BreastCancerCells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="genome-wideAssociationStudies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="supportiveTreatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="splice-awareAlignmentAlgorithmsInContext"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="twoEstonianBrothers"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isClassifiedInto"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="idiopathicNon-obstructiveAzoospermia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="couldUsed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="differences"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="prognosticMarker"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="moreComplexProcess"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ESR1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="socioeconomicConditions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allelicLoss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="reduced"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rna&apos;sNature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pregnancy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cytotoxicity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="interaction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="resistantMouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="directMolecularLinksBetweenAssemblyInMouseModels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rnaQuality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="methylationAnalyses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="associatedWithCharacteristicsInHighAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="examined"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="wherebyCaused"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="altitudeMestizoPopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="explaining"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="updatedOverviewOfCancer-relatedTrials"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="howAssociatedWithHistopathologicalCharacteristicsInHighAltitudePopulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allelicExpression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="review"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer-relatedDeathAmongWomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="possibleAssociationBetweenIntronicRs3803304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerMortality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Survival"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="AKT1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="performance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cellCycleArrest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="rnaSequencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="popularAlignmentAlgorithmsInContext"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="supportVectorMachines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="data"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ourFindings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="popularAlignmentAlgorithmsInContextOfRnaVariant-callingAnalysis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isIn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="similarSurvivalRates"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="recurFollowing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="sac"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="deepInferiorPerforator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="purpose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="response"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="substrates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="date"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="clinic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="twoPolymorphisms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="certainAcidDimers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="allelicFrequencies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancerRelatedDeathsInWomenWorldwide"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="bard1Snps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromPatient"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="AKT1"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="BRCA1"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Cases"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="DNA"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Dissemination"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ESR1"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Follow-up"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Genotypes"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="HER-family"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Infertility"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Invadopodia"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="It"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="MCF-7"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="MEA"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Mechanisms"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="NOA"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="PI3Ki"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="PTMC"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="RNA"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="SNPs"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="SNPs"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Survival"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="US"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="absence"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="absenceInEjaculateDue"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="absenceOfSpermatozoaInEjaculate"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="absenceOfSpermatozoaInEjaculateDueToSpermatogenesis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="abstracted"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="acidDimers"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="activatedAkt1"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="activity"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="addition"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="aim"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="all-causeSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allCauseSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allele"/>
+        <Class IRI="Mutation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allelicExpression"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allelicFrequencies"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allelicLoss"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="allelicLossOfBrca1ExpressionInFamilies"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="alterations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="altitudeMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="anticancerActivity"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="article"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="assembly"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="assemblyInHumanPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="assemblyInMouseModels"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="assemblyOfInvadopodiaInPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associated"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithCharacteristicsInAltitudeEcuadorianMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithCharacteristicsInAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithCharacteristicsInHighAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInHighAltitudeEcuadorianMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associatedWithHistopathologicalCharacteristicsInHighAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associationStudies"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="associations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="autologousReconstruction"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="azoospermia"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="bard1Snp"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="bard1Snps"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="basedRegimen"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="beneficialEffectOfGreenSpaces"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="bh3Mimetics"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="bioinformaticPatientDatabaseAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="blood"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="brca1PromoterHypermethylation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="brca1PromoterMethylation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastCancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastCancerPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastSelf-examination"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastSelf-examinationToolForPreventionOfBreastCancer"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastTumorigenesis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breastTumors"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="calculated"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="canPotentiallyUsed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer-relatedDeath"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer-relatedDeathAmongWomen"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer-specificSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerCells"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerDeathsInWomen"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerMortality"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerRelatedDeaths"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancerRelatedDeathsInWomenWorldwide"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="care"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cellCycleArrest"/>
+        <Class IRI="Mutation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cellRedoxHomeostasis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="certainAcidDimers"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="certainCinnamicAcidDimers"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="certainPatterns"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="characteristics"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cinnamicAcidDimers"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cisplatin"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="clinic"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="clinicalValidation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="combination"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="commonCancer"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="comparison"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="complexes"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="composition"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="compoundHeterozygousLoss-of-functionVariants"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="compoundLoss-of-functionVariants"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="conditions"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="consistent"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="conventionalThree-dimensionalRadiotherapy"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cooperation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="correlation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="couldUsed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="coxHazardModels"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="currentlyAvailableInhibitors"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cytotoxicActivity"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cytotoxicity"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cytotoxicity"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="data"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="date"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="dead"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="death"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="death"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deathAmongWomen"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deathsWorldwide"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deepEpigastricPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deepInferiorEpigastricPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deepInferiorPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deepPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="deeplyControversial"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="defects"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="demonstrating"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="detected"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="development"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="developmentOfApproaches"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="developmentOfNovelApproaches"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="developmentOfNovelPrognosticApproaches"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="differences"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directLinks"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directLinksBetweenAssembly"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directLinksBetweenAssemblyInMouseModels"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directLinksBetweenAssemblyInMouseModelsInHumanPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinks"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssembly"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssemblyInHumanPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssemblyInMouseModels"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssemblyInMouseModelsInHumanPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssemblyOfInvadopodiaInMouseModelsInPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="directMolecularLinksBetweenAssemblyOfInvadopodiaInPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="disadvantages"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="dominantlyInherited5UtrVariantAssociated"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="effectOfGreenSpaces"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="epigastricPerforator"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="epigeneticSilencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="estrogen"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="estrogenDependence"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="evenMoreComplexProcess"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="evidence"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="evolutionAssay"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="evolutionAssayLeading"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="explaining"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="expressionLevel"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="expressionLevelOfKnownGenes"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="extracellularMatrix"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="families"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="families"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="followingPopularSplice-awareAlignmentAlgorithms"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="formsOfThyroidectomyApproaches"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="frequency"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="frequencyOfMechanism"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="furtherClinicalValidation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="furtherValidation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="geneOntologyTermApoptoticSignalingPathway"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="geneOntologyTermSignalingPathway"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="genome-wideAssociationStudies"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="genomicSequencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="greenSpaces"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="greenSpaces"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="hazardRatios"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="helpfulImplicationsForTreatmentOfPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="helpfulImplicationsForTreatmentOfPatientsWithPtmc"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="highAltitudeMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="highestIncidenceOfCancerTypes"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="hormone"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="howAssociatedInAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="howAssociatedWithCharacteristicsInAltitudeEcuadorianMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="howAssociatedWithCharacteristicsInHighAltitudeEcuadorianMestizoPopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="howAssociatedWithCharacteristicsInHighAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="howAssociatedWithHistopathologicalCharacteristicsInHighAltitudePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="identifiedIn"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="idiopathicAzoospermia"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="idiopathicNon-obstructiveAzoospermia"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="impactErbb3Snps"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="implicationsForTreatmentOfPatientsWithPtmc"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="inStudyAppliedToTwoEstonianBrothersDiagnosed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="incidence"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="increasedLevelsOfPhysicalActivity"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="increasedRiskForPatientsDiagnosed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="increasedRiskOfMortalityForPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="inferiorEpigastricPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="inferiorPerforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="interaction"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="invadopodia"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="invadopodia-associatedProteins"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="invasionOfTumorCells"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="issues"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="kaplan-meierAnalyses"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="knowledge"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="leadingCause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="leadingCauseOfMortalityInCancerPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="linksBetweenAssemblyInMouseModelsInPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="linksBetweenAssemblyOfInvadopodiaInMouseModels"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="loss"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="lowerAll-causeSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="lowerSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="lowerSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mainCause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mainCause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="majorCause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="manyDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="manyDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="matchingForFactors"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="matrix"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="medications"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="metastaticCancerCells"/>
+        <Class IRI="Mutation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="methylationAnalyses"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="molecularEvolutionAssay"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="molecularEvolutionAssayLeading"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="molecularLinksBetweenAssemblyInMouseModelsInPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="molecularLinksBetweenAssemblyOfInvadopodia"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="molecularLinksBetweenAssemblyOfInvadopodiaInHumanPatients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="moreComplexProcess"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mostLikelyCause"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mostPromisingDifferentiallyExpressedTargets"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="negligibleNumberOfTrialsFocusingOnCancerMetastasis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="nervousSystems"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="networkInteractionMap"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="networkInteractionMapOfInvadopodia-associatedProteins"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="networkInteractionMapOfInvadopodia-associatedProteinsWithAvailableInhibitors"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="newPerspective"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="newPerspectiveOnInvadopodia-mediatedTumorInvasiveness"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="newPerspectiveOnTumorInvasiveness"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="non-obstructiveAzoospermia"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="normalCells"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="numberOfTrialsFocusingOnCancerMetastasis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="numerousBreastTumors"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="one"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="onlyNumberOfProteins"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="otherFormsOfThyroidectomyApproaches"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ourFindings"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="outcome"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ovarianCancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="overviewOfCancer-relatedClinicalTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="overviewOfClinicalTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="overviewOfCurrentCancer-relatedTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="overviewOfCurrentTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="overviewOfMarkersForCancerMetastasis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pathogenicVariants"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patientDatabaseAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patientsUndergoing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patterns"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pcrAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pcrHigh-resolutionAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="perforator"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="performance"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="performanceOfAligners"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="perspectiveOnInvadopodia-mediatedTumorInvasiveness"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pik3cah1047r-inducedMammaryTumorigenesis"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="poorConditions"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="poorSocioeconomicConditions"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="popularAlignmentAlgorithms"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="popularAlignmentAlgorithmsInContext"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="popularAlignmentAlgorithmsInContextOfRnaVariant-callingAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="possibleAssociationBetweenIntronicRs3803304"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="possibleAssociationBetweenNoncodingIntronicVariantRs3803304"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="possibleAssociationBetweenNoncodingVariantRs3803304"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="possibleAssociationBetweenRs3803304"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="potentComplexes"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="potentCytotoxicity"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="potentialBreastCancer-associatedNucleotidePolymorphismsInDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="potentialBreastSingleNucleotidePolymorphismsInManyDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="practice"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="practiceOfBse"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pregnancies"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pregnancy"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="presentStudy"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="primaryPurpose"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="profoundBim-dependentEffect"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="profoundEffect"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="prognosis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="prognosticMarker"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="prolongedPreventiveTreatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="promoterHypermethylation"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="promptSupportiveTreatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="promptTreatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="proteinExpression"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="proteins"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="purpose"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="quality"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rareDefects"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="re-purposing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="real-timePcrAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="recentEvidence"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="recentPregnancy"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="receptorStatus"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="recurrenceFreeSurvival"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="reduced"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="relationship"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="relationship"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="relationshipBetweenSnps"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="relationshipBetweenSnpsInVietnamesePopulationCohort"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="relationshipInVietnamesePopulationCase-controlCohort"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="researchers"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="resistance"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="resistanceDevelopment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="resistantMouse"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rest"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="review"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="riskForPatientsDiagnosed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rna-seqData"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rnaQuality"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rnaSequencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rnaVariantAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rs121434592NucleotidePolymorphisms"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rs121434592SingleNucleotidePolymorphisms"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="sac"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="sac"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="sensitivityToPlatinum"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="sequencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="sequencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="severalPotentialBreastCancer-associatedNucleotidePolymorphismsInDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="severalPotentialBreastCancer-associatedSingleNucleotidePolymorphisms"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="severalPotentialBreastNucleotidePolymorphismsInManyDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="severalPotentialBreastSingleNucleotidePolymorphismsInManyDifferentPopulations"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="severalResistantMouse"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="short-termSupplementation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="significantCorrelationBetweenInvadopodia-associatedGenesToBreastCancerMetastasis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="similarSurvivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="smallNumber"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="socioeconomicConditions"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="soma-wideBrca1PromoterHypermethylation"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="splice-awareAlignmentAlgorithmsInContext"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="splice-awareAlignmentAlgorithmsInContextOfRnaVariant-callingAnalysis"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="subgroupAnalyses"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="supplementation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="supportVectorMachines"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="supportiveTreatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="survivalRates"/>
+        <Class IRI="rates"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="synthesized"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="taiwanNationalDeathCertificateDatabase"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPieces"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfCarcinoma"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfCarcinomaFromBreastTissue"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfDuctalCarcinomaFromBreastTissueFromSinglePatient"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfDuctalCarcinomaFromPatient"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromBreastTissueFromPatient"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromPatient"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfInvasiveCarcinomaFromSinglePatient"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tenPiecesOfInvasiveDuctalCarcinomaFromBreastTissue"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="thanNon-tumorigenicCells"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="theirSpread"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="this"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="those"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="time"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="toxin"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="treatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="treatment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="treatmentSchedule"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumorCells"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumorDevelopment"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="twoEstonianBrothers"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="twoEstonianBrothersDiagnosed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="twoEstonianBrothersDiagnosedWithNoa"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="twoPolymorphisms"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="updatedOverview"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="updatedOverviewOfCancer-relatedTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="updatedOverviewOfCurrentCancer-relatedClinicalTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="updatedOverviewOfCurrentClinicalTrials"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="upregulated"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="use"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="validation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="variants"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="vietnamesePopulation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="weUsed"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="whole-exomeSequencing"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="yearPostpartum"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="2920Patients"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="3DCRT"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="91AffectedWomen"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="91Women"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="PI3K/AKT"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="elevatedProteinExpression/phosphorylation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mcf‑7BreastCancerCells"/>
+        <Class IRI="Mutation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="proteinExpression/phosphorylation"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="rna&apos;sNature"/>
+        <Class IRI="Other"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="breastCancer"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="breastCancer"/>
+        <NamedIndividual IRI="breastCancerDiagnosis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="breastCancer"/>
+        <NamedIndividual IRI="breastCancers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="breastCancer"/>
+        <NamedIndividual IRI="breastTumor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="cancer"/>
+        <NamedIndividual IRI="cancerCell-relatedComponents"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="cancer"/>
+        <NamedIndividual IRI="lungCancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Cancer"/>
+        <NamedIndividual IRI="tumour"/>
+    </ClassAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="basedOn"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="causeOfWas"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="examined"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="exhibit"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="exhibited"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="exhibits"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isCauseOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isClassifiedInto"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isIn"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isIn"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isSecondLeadingCauseOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="phosphorylates"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="recurFollowing"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="restOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="significantlyAffected"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="basedOn"/>
+        <Class IRI="cancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="causeOfWas"/>
+        <Class IRI="death"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="examined"/>
+        <Class IRI="We"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="exhibit"/>
+        <Class IRI="acidDimers"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="exhibited"/>
+        <Class IRI="rest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="exhibits"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+        <Class IRI="breastTumors"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+        <Class IRI="breastTumors"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="BreastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="cancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isCauseOf"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isClassifiedInto"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isIn"/>
+        <Class IRI="pathogenicVariants"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isIn"/>
+        <Class IRI="resistance"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isSecondLeadingCauseOf"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="phosphorylates"/>
+        <Class IRI="AKT1"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="recurFollowing"/>
+        <Class IRI="breastTumors"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="restOf"/>
+        <Class IRI="cytotoxicity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="significantlyAffected"/>
+        <Class IRI="RNAQuality"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="basedOn"/>
+        <Class IRI="receptorStatus"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="causeOfWas"/>
+        <Class IRI="breastCancer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="examined"/>
+        <Class IRI="associationsBetweenBreastCancer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="exhibit"/>
+        <Class IRI="cytotoxicity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="exhibited"/>
+        <Class IRI="cytotoxicity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="exhibits"/>
+        <Class IRI="incidenceOfCancerTypes"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+        <Class IRI="initialResponse"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="howeverRecurFollowing"/>
+        <Class IRI="response"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="cancer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="wherebyCaused"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isCauseOf"/>
+        <Class IRI="cancerDeathsInWomen"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isClassifiedInto"/>
+        <Class IRI="subtypes"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isIn"/>
+        <Class IRI="BRCA1"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isIn"/>
+        <Class IRI="patients"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+        <Class IRI="cancerDeathsInWomen"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isLeadingCauseOf"/>
+        <Class IRI="deaths"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isSecondLeadingCauseOf"/>
+        <Class IRI="deaths"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="phosphorylates"/>
+        <Class IRI="downstreamSubstrates"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="phosphorylates"/>
+        <Class IRI="substrates"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="recurFollowing"/>
+        <Class IRI="response"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="restOf"/>
+        <Class IRI="complexes"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="significantlyAffected"/>
+        <Class IRI="outcome"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0) https://github.com/owlcs/owlapi/ -->
+
+

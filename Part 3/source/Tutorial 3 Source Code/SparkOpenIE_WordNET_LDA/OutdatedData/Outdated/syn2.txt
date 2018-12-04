@@ -1,0 +1,75 @@
+present:accord,account,acquaint,act,add,administer,advise,allot,allow,animalise
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+case:African,Amerindian,Aquarius,Archer,Aries,Balance,Black,Black person,Bull,Cancer
+mastitis:adenitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis,bursitis
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+woman:B-girl,Black woman,Cinderella,Delilah,Jack of all trades,Wac,Wave,adult female,adult male,age class
+no:no more
+history:English,Occidentalism,Oriental Studies,Orientalism,Romantic Movement,Romanticism,Sinology,ability,account,ancient history
+infection:affliction,agglutination,anomalous communication,assimilation,auditory communication,bilharzia,bilharziasis,biliousness,black and white,cause celebre
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+other:another,different,early,former,new,opposite,otherwise,past,separate,some other
+unspecific:broad,general
+clinical:nonsubjective,objective
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+histological:histologic
+by:aside,away,past
+aspiration:American Dream,affrication,ambition,bloodlust,breathing in,breathing out,caprice,concupiscence,craving,diction
+giant:Argus,Cadmus,Cyclops,Excellency,Jekyll and Hyde,Jotun,Jotunn,Mimir,VIP,aberrant
+epithelial:
+granulomatous:
+justified:even
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+clinical:nonsubjective,objective
+inclination:AZ,Call,abduction,acceptance,adduction,admiration,agitation,angle of dip,angle of extinction,angle of incidence
+absence:absence seizure,absenteeism,access time,awayness,break,complex absence,convulsion,cut,cycle,dearth
+confirmatory:collateral,confirmative,confirming,corroborative,corroboratory,substantiating,substantiative,supportive,validating,validatory
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+any:some,whatever,whatsoever
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+other:another,different,early,former,new,opposite,otherwise,past,separate,some other
+existence:action,activeness,activity,actuality,agency,aliveness,animation,annulment,antagonism,asterism
+mastitis:adenitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis,bursitis
+torpid:asleep,dormant,hibernating,inactive,inert,sluggish,soggy
+evolution:Krebs citric acid cycle,Krebs cycle,absorption,action,activity,adaptation,adaption,adjustment,ageing,agglutination
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+clinical:nonsubjective,objective
+indication:acrophony,admonition,anomalous communication,auditory communication,black and white,clock time,clue,contagion,content,contraindication
+suspect:anticipate,call,distrust,doubt,forebode,foretell,mistrust,predict,prognosticate,promise
+mammary:
+process:Agenise,Agenize,act upon,action,add,add together,administer,administrate,aerate,air-condition
+usually:commonly,normally,ordinarily,unremarkably
+lead:AZ,Al,Am,Ba,Be,Bi,Bk,Ca,Cd,Ce
+erroneous:incorrect,wrong
+other:another,different,early,former,new,opposite,otherwise,past,separate,some other
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+such:much
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+rare:extraordinary,infrequent,rarefied,rarified,raw,scarce,thin,uncommon
+disease:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,aeroembolism,ague,air embolism,amyloidosis,animal disease
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+difficult:ambitious,arduous,awkward,baffling,catchy,challenging,defiant,delicate,demanding,disobedient
+diagnosis:blood typing,diagnosing,medical diagnosis,uranalysis,urinalysis
+due:ascribable,attributable,callable,cod,collect,collectable,collectible,delinquent,expected,imputable
+low:abject,alto,baritone,bass,blue,broken,contemptible,contrabass,contralto,crushed
+clinical:nonsubjective,objective
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+lack:absence,dearth,deficiency,deficit,famine,mineral deficiency,necessity,shortage,shortness,stringency
+specificity:
+imaging:MRI,PET,X-radiation,X-raying,anthropomorphism,chimaera,chimera,delineation,depicting,depiction
+so:and so,and then,hence,indeed,then,thence,therefore,thus,thusly
+suspicion:arriere pensee,bosom,cloud,cold war,disbelief,distrust,effect,first blush,heart,hunch
+real:actual,concrete,documentary,echt,existent,factual,genuine,historical,literal,material
+diagnostic:characteristic,symptomatic
+possibility:Hobson's choice,abstract,abstraction,achievability,actuality,aliveness,animation,anticipation,apprehension,assumption
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+fundamental:basic,cardinal,central,important,key,of import,primal,profound,rudimentary,significant
+condition:Bertillon system,Bill of Rights,absolution,account,acquaintance,action,activeness,activity,aeroembolism,agency
+even:equal,fifty-fifty,flat,flatbottom,flatbottomed,flush,justified,lap-jointed,level,plane
+causal:causative
+agent:Comptroller General,Comptroller of the Currency,Fed,Federal,Indian agent,Inquisitor,account executive,account representative,accountant,administrative official
+not:non

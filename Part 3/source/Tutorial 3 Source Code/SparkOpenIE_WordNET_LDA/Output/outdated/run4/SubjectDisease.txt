@@ -1,0 +1,6 @@
+cancer
+acromegaly
+ColorectalCancer
+LungCancer
+seromaProduction
+BreastCancer

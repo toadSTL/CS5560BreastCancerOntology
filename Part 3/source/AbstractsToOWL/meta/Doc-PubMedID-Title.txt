@@ -1,0 +1,183 @@
+1 - 30465921 - A dual-targeted hyaluronic acid-gold nanorod platform with triple-stimuli responsiveness for photodynamic/photothermal therapy of breast cancer.
+2 - 30465497 - Iron oxide nanoparticles for breast cancer theranostics.
+3 - 30462912 - Effectiveness of cytological diagnosis of breast cancer metastases in regional lymph nodes.
+4 - 30460281 - Microfluidics: Rapid Diagnosis for Breast Cancer.
+5 - 30462571 - Factors associated with time to breast cancer diagnosis and treatment in unscreened women in Portugal.
+6 - 30457164 - DSCAM-AS1 promotes tumor growth of breast cancer by reducing miR-204-5p and up-regulating RRM2.
+7 - 30455863 - Elective cholecystectomy as a rare presentation of metastatic breast cancer.
+8 - 30454008 - Possibility of avoiding axillary lymph node dissection by immune microenvironment monitoring in preoperative chemotherapy for breast cancer.
+9 - 30452954 - Skin Diseases of the Breast and Nipple Part I: Benign and Malignant Tumors.
+10 - 30450274 - Strong association between cervical and breast cancer screening behaviour among Danish women; A register-based cohort study.
+11 - 30449229 - Breast metastasis two years after pelvic surgery and adjuvant chemotherapy for serous ovarian cancer.
+12 - 30430365 - Characterization of circulating tumor cells in breast cancer patients by spiral microfluidics.
+13 - 30428997 - [Psychological distress and caregiving burden among spouses of women with breast cancer].
+14 - 30423570 - Extramedullary Haematopoiesis in Axillary Lymph Nodes of Breast Carcinoma Patients Receiving Neoadjuvant Chemotherapy: A Potential Diagnostic Pitfall.
+15 - 30418174 - Fbxo22-mediated KDM4B degradation determines selective estrogen receptor modulator activity in breast cancer.
+16 - 30413446 - Bronchoalveolar carcinoma as an unsuspected cause for worsening shortness of breath in a patient with metastatic breast cancer.
+17 - 30412123 - Prediction model of lymphovascular invasion based on clinicopathological factors in Chinese patients with invasive breast cancer.
+18 - 30412117 - Changes in background parenchymal enhancement in HER2-positive breast cancer before and after neoadjuvant chemotherapy: Association with pathologic complete response.
+19 - 30412075 - Correlation of tumor uptake on breast-specific gamma imaging and fluorodeoxyglucose PET/CT with molecular subtypes of breast cancer.
+20 - 30411340 - Comorbidities, age and period of diagnosis influence treatment and outcomes in early breast cancer.
+21 - 30410392 - Intracellular aggregated TRPV1 is associated with lower survival in breast cancer patients.
+22 - 30407297 - Comparison of endoscopic thyroidectomy via a modified axillo-breast approach with the conventional breast approach for treatment of unilateral papillary thyroid microcarcinoma.
+23 - 30407215 - Factors associated with locoregional and metastatic breast cancer at diagnosis in a Southern Portuguese registry in the period 2005-2012.
+24 - 30405848 - MicroRNA-34 family in breast cancer: from research to therapeutic potential.
+25 - 30403909 - A multicenter REtrospective observational study of first-line treatment with PERtuzumab, trastuzumab and taxanes for advanced HER2 positive breast cancer patients. RePer Study.
+26 - 30403717 - Mastectomized women's perception of breast cancer early detection.
+27 - 30402234 - Gastric outlet obstruction caused by metastatic tumor of the stomach originating from primary breast cancer: A case report.
+28 - 30400595 - Breast Cancer Estimate Modeling via PDE Thermal Analysis Algorithms.
+29 - 30396943 - An Experimental Model of Breast Cancer Cells: Informative Protocol for In Vitro Culture.
+30 - 30394284 - Recent advances in gold and silver nanoparticle based therapies for lung and breast cancers.
+31 - 30394112 - A meningioma and breast carcinoma metastasis collision tumor.
+32 - 30390383 - Role of texture analysis in breast MRI as a cancer biomarker: A review.
+33 - 30388713 - Novel sequence variants in the TLR6 gene associated with advanced breast cancer risk in the Saudi Arabian population.
+34 - 30387402 - Selective photodynamic effects on breast cancer cells provided by P123 Pluronic®-based nanoparticles modulating hypericin delivery.
+35 - 30387014 - Human Plasma Levels of VEGF-A, VEGF-C, VEGF-D, their Soluble Receptor - VEGFR-2 and Applicability of these Parameters as Tumor Markers in the Diagnostics of Breast Cancer.
+36 - 30386620 - Delayed breast cancer relapse with pleural metastasis and malignant pleural effusion after long periods of disease-free survival.
+37 - 30384806 - MicroRNA-22 Suppresses Breast Cancer Cell Growth and Increases Paclitaxel Sensitivity by Targeting NRAS.
+38 - 30383678 - Expression of estrogen receptor, progesterone receptor, human epidermal growth factor receptor 2, and Ki-67 in ductal carcinoma in situ (DCIS) and DCIS with microinvasion.
+39 - 30383658 - Positive non-sentinel axillary lymph nodes in breast cancer with 1-2 sentinel lymph node metastases.
+40 - 30383644 - Reference values of bioelectrical impedance analysis for detecting breast cancer-related lymphedema.
+41 - 30382159 - Identifying a miRNA signature for predicting the stage of breast cancer.
+42 - 30380950 - Cause or prevention of breast cancer with estrogens: analysis from tumor biologic data, growth kinetic model and Women's Health Initiative study.
+43 - 30377674 - Improving adherence to endocrine hormonal therapy among breast cancer patients: Study protocol for a randomized controlled trial.
+44 - 30376997 - DDT exposure in early childhood and female breast cancer: Evidence from an ecological study in Taiwan.
+45 - 30374009 - [Bone and calcium metabolism associated with malignancy. Clinical Characteristics and Treatment of Cancer Treatment Induced Bone Loss(CTIBL)in Breast Cancer.]
+46 - 30371238 - Trastuzumab in Female Breast Cancer Patients With Reduced Left Ventricular Ejection Fraction.
+47 - 30370656 - ZD2-Engineered Gold Nanostar@Metal-Organic Framework Nanoprobes for T1 -Weighted Magnetic Resonance Imaging and Photothermal Therapy Specifically Toward Triple-Negative Breast Cancer.
+48 - 30369661 - Radiological findings of breast involvement in benign and malignant systemic diseases.
+49 - 30368484 - Clinical features of patients with male breast cancer in Shanxi province of China from 2007 to 2016.
+50 - 30367451 - Cost-effectiveness of Breast Cancer Screening Programme for Women in Rural China.
+51 - 30365854 - [The use of virtual communities in the support to patients with breast cancer].
+52 - 30364524 - A METHOD FOR QUANTIFICATION OF CALPONIN EXPRESSION IN MYOEPITHELIAL CELLS IN IMMUNOHISTOCHEMICAL IMAGES OF DUCTAL CARCINOMA IN SITU.
+53 - 30363150 - Two cases of mimics of bone metastasis in breast cancer.
+54 - 30362671 - Cancer stem cell markers ALDH1 and CD44+/CD24- phenotype and their prognosis impact in invasive ductal carcinoma.
+55 - 30362328 - Breast Cancer in Basra Oncology Center: A Clinico- Epidemiological Analysis
+56 - 30362322 - Comparison of Bayes Classifiers for Breast Cancer Classification
+57 - 30361894 - Estrogen alpha receptor antagonists for the treatment of breast cancer: a review.
+58 - 30361548 - Multiplexed Autoantibody Signature for Serological Detection of Canine Mammary Tumours.
+59 - 30360728 - Immunohistochemical expression of melatonin receptor MT1 and glucose transporter GLUT1 in human breast cancer.
+60 - 30360602 - Mediating Factors in Early Diagnosis of Breast Cancer: from Initial Changes in Health to Breast Cancer Detection
+61 - 30353679 - Synergy of cytological methods in the pathological staging of breast cancer: Axillary fine-needle aspiration and intraoperative scrape cytology of the sentinel lymph node.
+62 - 30351060 - Chitosan Immobilization on Bio-MOF Nanostructures: A Biocompatible pH-Responsive Nanocarrier for Doxorubicin Release on MCF-7 Cell Lines of Human Breast Cancer.
+63 - 30349922 - Differentiating breast cancer molecular subtypes using a DNA aptamer selected against MCF-7 cells.
+64 - 30348163 - Receptor activator of nuclear factor kB ligand, osteoprotegerin, and risk of death following a breast cancer diagnosis: results from the EPIC cohort.
+65 - 30346835 - The Relationship Between DNA Methylation in Key Region and the Differential Expressions of Genes in Human Breast Tumor Tissue.
+66 - 30346284 - Sparse Representation Over Learned Dictionaries on the Riemannian Manifold for Automated Grading of Nuclear Pleomorphism in Breast Cancer.
+67 - 30344713 - Elevated expression of POLD1 is associated with poor prognosis in breast cancer.
+68 - 30343536 - [CHANGE IN HEALTHCARE UTILIZATION FOLLOWING DOCUMENTARY TV PROGRAM ABOUT YOUNG BREAST CANCER PATIENTS].
+69 - 30339576 - The effect of NSAIDs exposure on breast cancer risk in female patients with autoimmune diseases.
+70 - 30338173 - P/Q and N-type Voltage-gated Calcium Channel Binding Antibodies Associated with Paraneoplastic Chorea and Mixed Invasive Ductal and Lobular Carcinoma of the Breasts in an Elderly Patient.
+71 - 30334368 - STAT1 facilitates oestrogen receptor α transcription and stimulates breast cancer cell proliferation.
+72 - 30321007 - [Breast cancer screening : present situation and prospects].
+73 - 30320989 - [Follow-up of breast cancer patients by general practioner].
+74 - 30320920 - MORC4 is a novel breast cancer oncogene regulated by miR-193b-3p.
+75 - 30320365 - Baicalin inhibits breast cancer development via inhibiting IĸB kinase activation in vitro and in vivo.
+76 - 30318761 - Automated assessment of breast cancer margin in optical coherence tomography images via pretrained convolutional neural network.
+77 - 30303656 - Breast cancer detection method, diagnostic interval and use of specialized diagnostic assessment units across Ontario, Canada.
+78 - 30300053 - Suboptimal Use of Effective Contraceptive Methods in Young Mexican Women With Breast Cancer.
+79 - 30296195 - Isolated central nervous system Rosai-Dorfman disease and breast cancer: an unusual presentation.
+80 - 30293705 - The role of PDGF-B/PDGFR-BETA axis in the normal development and carcinogenesis of the breast.
+81 - 30293398 - [Chinese expert consensus on the clinical diagnosis and treatment of advanced breast carcinoma(2018)].
+82 - 30292910 - SD-CNN: A shallow-deep CNN for improved breast cancer diagnosis.
+83 - 30290661 - Retrospective analysis of concurrent docetaxel and epirubicin neoadjuvant versus adjuvant chemotherapy: Which leads to better outcomes for different subtype breast cancer patients?
+84 - 30290658 - Young male breast cancer, a small crowd, the survival, and prognosis?: A population-based study.
+85 - 30290049 - Forkhead box C1 boosts triple-negative breast cancer metastasis through activating the transcription of chemokine receptor-4.
+86 - 30288498 - Bilateral Inflammatory Pseudotumour of the Breast: A Case Report and Review of the Literature.
+87 - 30288001 - Patterns of Care of Breast Cancer Patients in a Rural Cancer Center in Western India.
+88 - 30287995 - Nipple Areola Complex Involvement in Invasive Carcinoma Breast.
+89 - 30287823 - Germline pathogenic variants of 11 breast cancer genes in 7,051 Japanese patients and 11,241 controls.
+90 - 30286843 - Anxiety and Depression Disorders in Relation to the Quality of Life of Breast Cancer Patients with Locally Advanced or Disseminated Stage.
+91 - 30280271 - A Novel Enhanced Gray Scale Adaptive Method for Prediction of Breast Cancer.
+92 - 30279988 - Transfer learning based histopathologic image classification for breast cancer detection.
+93 - 30278830 - An Automated Preprocessing Method for Diffuse Optical Tomography to Improve Breast Cancer Diagnosis.
+94 - 30278576 - Association between polycystic ovarian syndrome and endometrial, ovarian, and breast cancer: A population-based cohort study in Taiwan.
+95 - 30278574 - Problems to affect long-term survival for breast cancer patients: An observational study of subsequent lung/bronchus malignancies.
+96 - 30276443 - Serum miRNA-based distinct clusters define three groups of breast cancer patients with different clinicopathological and immune characteristics.
+97 - 30275864 - Extraocular Muscles Involvement as the Initial Presentation in Metastatic Breast Cancer.
+98 - 30275851 - The Epigenetics of Triple-Negative and Basal-Like Breast Cancer: Current Knowledge.
+99 - 30275241 - RON Receptor Tyrosine Kinase as a Therapeutic Target for Eradication of Triple-Negative Breast Cancer: Efficacy of Anti-RON ADC Zt/g4-MMAE.
+100 - 30272598 - Changes in health behaviours and body mass index after a breast cancer diagnosis: results from a prospective cohort study.
+101 - 30272349 - MicroRNA-511 inhibits malignant behaviors of breast cancer by directly targeting SOX9 and regulating the PI3K/Akt pathway.
+102 - 30262052 - A barcode mode based on glycosylation sites of membrane type mannose receptor as a new potential diagnostic marker for breast cancer.
+103 - 30261243 - Low-dose aspirin use and risk of contralateral breast cancer: a Danish nationwide cohort study.
+104 - 30260254 - Osteopontin-targeted probe detects orthotopic breast cancers using optoacoustic imaging.
+105 - 30259416 - Emerging ways to treat breast cancer: will promises be met?
+106 - 30259342 - Risk perception and screening behavior of Filipino women at risk for breast cancer: implications for cancer genetic counseling.
+107 - 30257646 - Addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinical selection criteria.
+108 - 30257411 - Troponin as a cardiotoxicity marker in breast cancer patients receiving anthracycline-based chemotherapy: A narrative review.
+109 - 30256777 - Changing local therapy in breast cancer: who needs what, and when?
+110 - 30256567 - Aiding the Digital Mammogram for Detecting the Breast Cancer Using Shearlet Transform and Neural Network
+111 - 30256046 - Analysis of Delays in Breast Cancer Treatment and Late-Stage Diagnosis in Kazakhstan
+112 - 30255696 - The Obesity and the Risk of Breast Cancer among Pre and Postmenopausal Women
+113 - 30255693 - Overall Survival and Local Recurrence Among Breast Cancer Patients in Hospital Sultanah Nora Ismail Batu Pahat, 2007-2013
+114 - 30250578 - Intravoxel incoherent motion magnetic resonance imaging for breast cancer: A comparison with benign lesions and evaluation of heterogeneity in different tumor regions with prognostic factors and molecular classification.
+115 - 30247957 - Advising Women Undergoing Treatment for Breast Cancer: A Narrative Review.
+116 - 30246500 - Breast cancer metastasis to gynaecological organs: a clinico-pathological and molecular profiling study.
+117 - 30243716 - Production and characterization of monoclonal antibody against a triple negative breast cancer cell line.
+118 - 30241140 - Knowledge Summaries for Comprehensive Breast Cancer Control.
+119 - 30241137 - In Their Own Words: A Qualitative Study of Kenyan Breast Cancer Survivors' Knowledge, Experiences, and Attitudes Regarding Breast Cancer Genetics.
+120 - 30235730 - Predictive value of soluble ST-2 for changes of cardiac function and structure in breast cancer patients receiving chemotherapy.
+121 - 30233264 - Physical activity and sociodemographic variables related to global health, quality of life, and psychological factors in breast cancer survivors.
+122 - 30231409 - Incorporating Biology Into Breast Cancer Staging: American Joint Committee on Cancer, Eighth Edition, Revisions and Beyond.
+123 - 30231328 - Innovative Strategies: Targeting Subtypes in Metastatic Breast Cancer.
+124 - 30229477 - The role of circulating tumor cells in metastatic breast cancer: prognostic and predictive value.
+125 - 30227299 - Tumor-associated macrophages in breast cancer: Innocent bystander or important player?
+126 - 30224754 - Correlation of body mass index with serum DDTs predicts lower risk of breast cancer before the age of 50: prospective evidence in the Child Health and Development Studies.
+127 - 30222727 - Extreme Learning Machine (ELM)-Based Classification of Benign and Malignant Cells in Breast Cancer.
+128 - 30222327 - Low-Cost and Rapid-Production Microfluidic Electrochemical Double-Layer Capacitors for Fast and Sensitive Breast Cancer Diagnosis.
+129 - 30222029 - Men With a "Woman's Disease": Stigmatization of Male Breast Cancer Patients-A Mixed Methods Analysis.
+130 - 30221311 - A simple pyramid-shaped microchamber towards highly efficient isolation of circulating tumor cells from breast cancer patients.
+131 - 30219806 - Breast Cancer in Pregnancy: A Retrospective Cohort Study.
+132 - 30217292 - Overall survival is similar between women who seek care at one or more institutions after diagnosis of operable breast cancer in the community.
+133 - 30214595 - Texture features and pharmacokinetic parameters in differentiating benign and malignant breast lesions by dynamic contrast enhanced magnetic resonance imaging.
+134 - 30214581 - Aberrant promoter methylation of PCDH10 as a potential diagnostic and prognostic biomarker for patients with breast cancer.
+135 - 30208185 - [Racial disparity in 10-year breast cancer survival: a mediation analysis using potential responses approach].
+136 - 30207076 - Risk-based breast cancer follow-up stratified by age.
+137 - 30206184 - SOX9/FXYD3/Src axis is critical for ER+ breast cancer stem cell function.
+138 - 30203490 - Comprehensive analysis of novel three-long noncoding RNA signatures as a diagnostic and prognostic biomarkers of human triple-negative breast cancer.
+139 - 30203254 - Identification of the copy number variant biomarkers for breast cancer subtypes.
+140 - 30202672 - Breast Cancer During Pregnancy.
+141 - 30202040 - Radiomics of US texture features in differential diagnosis between triple-negative breast cancer and fibroadenoma.
+142 - 30200262 - Targeting Breast Cancer Stem Cells to Overcome Treatment Resistance.
+143 - 30200142 - Comparison of apatinib and capecitabine (Xeloda) with capecitabine (Xeloda) in advanced triple-negative breast cancer as third-line therapy: A retrospective study.
+144 - 30197799 - Benefit of everolimus as a monotherapy for a refractory breast cancer patient bearing multiple genetic mutations in the PI3K/AKT/mTOR signaling pathway.
+145 - 30196031 - Axillary dissection versus no axillary dissection in patients with breast cancer and sentinel-node micrometastases (IBCSG 23-01): 10-year follow-up of a randomised, controlled phase 3 trial.
+146 - 30195239 - Chlorambucil-conjugated platinum(IV) prodrugs to treat triple-negative breast cancer in vitro and in vivo.
+147 - 30193687 - Hormonal contraception and breast cancer.
+148 - 30191237 - An all-in-one nanoparticle (AION) contrast agent for breast cancer screening with DEM-CT-MRI-NIRF imaging.
+149 - 30190194 - Vitamin A and Breast Cancer Survival: A Systematic Review and Meta-analysis.
+150 - 30188759 - A new look at molecular biology of breast cancer.
+151 - 30187678 - Predictors and interdependence of family support in a random sample of long-term young breast cancer survivors and their biological relatives.
+152 - 30184043 - Breast cancer prognosis signature: linking risk stratification to disease subtypes.
+153 - 30181939 - Traumatic neuroma as a rare cause of intractable neuropathic breast pain following cancer surgery: Management and review of the literature.
+154 - 30180725 - Radiotherapy for patients with unresected locally advanced breast cancer.
+155 - 30180594 - A Novel Estrogen Receptor α-Targeted Near-Infrared Fluorescent Probe for in Vivo Detection of Breast Tumor.
+156 - 30179186 - Advantages of breast cancer visualization and characterization using synchrotron radiation phase-contrast tomography.
+157 - 30178244 - Interplay Between Genetic and Epigenetic Changes in Breast Cancer Subtypes.
+158 - 30176834 - Rationale and design of the Caloric Restriction and Exercise protection from Anthracycline Toxic Effects (CREATE) study: a 3-arm parallel group phase II randomized controlled trial in early breast cancer.
+159 - 30176833 - Impact of breast cancer on prospective memory functioning assessed by virtual reality and influence of sleep quality and hormonal therapy: PROSOM-K study.
+160 - 30175774 - High-Glucose Conditions Promote Anchorage-Independent Colony Growth in Human Breast Cancer MCF-7 Cells.
+161 - 30175056 - Sexuality, fertility and pregnancy following breast cancer treatment.
+162 - 30174762 - Current approaches in the clinical management of pregnancy-associated breast cancer-pros and cons.
+163 - 30173230 - Stromal podoplanin expression and its clinicopathological role in breast carcinoma.
+164 - 30172320 - Identification of breast cancer through spectroscopic analysis of cell-membrane sialic acid expression.
+165 - 30172235 - Label-free ultrasensitive detection of breast cancer miRNA-21 biomarker employing electrochemical nano-genosensor based on sandwiched AgNPs in PANI and N-doped graphene.
+166 - 30170496 - Multicenter Study Using Desorption-Electrospray-Ionization-Mass-Spectrometry Imaging for Breast-Cancer Diagnosis.
+167 - 30170432 - Comparative efficacy of non-pharmacological adjuvant therapies for quality of life in the patients with breast cancer receiving chemo- or radio-therapy: A protocol for systematic review and Bayesian network meta-analysis.
+168 - 30170382 - Neutrophil to lymphocyte ratio is a prognostic factor for disease free survival in patients with breast cancer underwent curative resection.
+169 - 30167082 - Genomic alterations at the basis of treatment resistance in metastatic breast cancer: clinical applications.
+170 - 30166274 - A Personalized Physical Activity Program With Activity Trackers and a Mobile Phone App for Patients With Metastatic Breast Cancer: Protocol for a Single-Arm Feasibility Trial.
+171 - 30160152 - Epidemiology of gliomas in women diagnosed with breast cancer supports the protective role of estrogenic exposure.
+172 - 30160021 - Stability of oestrogen and progesterone receptor antigenicity in formalin-fixed paraffin-embedded breast cancer tissue over time.
+173 - 30160019 - Vascular adhesion protein-1 as indicator of breast cancer tumor aggressiveness and invasiveness.
+174 - 30158597 - Immunohistochemical analysis of estrogen receptor in breast cancer with ESR1 mutations detected by hybrid capture-based next-generation sequencing.
+175 - 30158405 - [Current Status and Future Perspectives of the Navigation Surgery in Breast Cancer - The Clinical Utility of Sentinel Lymph Node Biopsy Using ICG].
+176 - 30158269 - Breast cancer and organising pneumonia: the importance of correlating the pathological findings with the clinical and radiological picture.
+177 - 30157902 - Advances in circular RNAs and their roles in breast Cancer.
+178 - 30156052 - Breast cancer in adolescents and young adults.
+179 - 30153958 - Overexpression of NIMA-related kinase 6 (NEK6) contributes to malignant growth and dismal prognosis in Human Breast Cancer.
+180 - 30153865 - Personal goal-setting among women living with breast cancer: protocol for a scoping review.
+181 - 30153321 - Obese Breast Cancer Patients and Survivors: Management Considerations.
+182 - 30153317 - Multidisciplinary Approaches to Chest Wall Recurrences of Breast Cancer.
+183 - 30152748 - Axillary Sentinel Lymph Nodes in Breast Cancer: Quantitative Evaluation at Dual-Energy CT.

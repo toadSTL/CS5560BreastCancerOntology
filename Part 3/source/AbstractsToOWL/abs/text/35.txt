@@ -1,0 +1,1 @@
+Current breast cancer recurrence prediction models have limitations for clinical practice (statistical methodology, simplicity and specific populations). We therefore developed a new model that overcomes these limitations.

@@ -1,0 +1,8 @@
+
+
+
+
+
+were,Species,Other,Func
+had,Species,Other,Func
+isIn,Species,Other,Func

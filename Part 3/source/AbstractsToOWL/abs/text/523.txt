@@ -1,0 +1,1 @@
+As both intravoxel incoherent motion (IVIM) modeling and dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) provide perfusion parameters, IVIM-derived perfusion parameters might be expected to correlate with the kinetic features from DCE-MRI.

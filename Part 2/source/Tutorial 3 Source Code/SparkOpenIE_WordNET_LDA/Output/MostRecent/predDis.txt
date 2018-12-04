@@ -1,0 +1,9 @@
+is,Disease,Disease,Func
+
+
+
+
+isMostFrequentMalignancyIn,Disease,Other,Func
+significantlyDecreasedUnder,Disease,Other,Func
+decreasedOver,Disease,Interval,Func
+is,Disease,Other,Func

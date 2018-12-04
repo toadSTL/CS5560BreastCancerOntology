@@ -1,0 +1,1 @@
+We propose a novel methodology to integrate morphological and functional information of tumor-associated vessels to assist in the diagnosis of suspicious breast lesions.

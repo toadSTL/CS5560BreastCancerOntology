@@ -1,0 +1,100 @@
+
+Synonyms for lemma: with PA
+patients with 0.26794683933258057
+risk with 0.1279546320438385
+diagnosed later 0.11141432821750641
+
+Synonyms for lemma: family history
+increasing scrutiny 0.10889419913291931
+with a 0.10571213066577911
+role in 0.09896617382764816
+
+Synonyms for lemma: significantly higher
+the differential 0.12892764806747437
+advanced imaging 0.10150644183158875
+the new 0.10041821748018265
+
+Synonyms for lemma: cancer in
+patients with 0.1084519550204277
+determined by 0.09144910424947739
+is functional 0.0908321961760521
+
+Synonyms for lemma: PA diagnosed
+patients with 0.22873181104660034
+a history 0.1243421733379364
+with PA 0.1004985049366951
+
+Synonyms for lemma: before the
+patients with 0.1515851467847824
+was reported 0.13022471964359283
+the age 0.1127750501036644
+
+Synonyms for lemma: diagnosed before
+patients with 0.13262759149074554
+the age 0.09599220007658005
+intake and 0.09386684745550156
+
+Synonyms for lemma: abbreviated MRI
+with a 0.10713040828704834
+modality to 0.10002452880144119
+risk stratification 0.09983540326356888
+
+Synonyms for lemma: prolactinoma and
+with PA 0.10243631899356842
+its derivatives 0.09540493786334991
+patients with 0.09357601404190063
+
+Synonyms for lemma: age of
+its high 0.10957255214452744
+with the 0.09978456795215607
+imaging modality 0.09806269407272339
+
+Synonyms for lemma: was reported
+before the 0.13022473454475403
+prolactinomas significantly 0.1186232790350914
+with use 0.09513100981712341
+
+Synonyms for lemma: very rare
+stratification which 0.14568853378295898
+of the 0.1290341466665268
+clinical behaviors. 0.12858769297599792
+
+Synonyms for lemma: reported in
+features may 0.1498109996318817
+subtype-specific signature 0.10737424343824387
+diagnosed later 0.09693007171154022
+
+Synonyms for lemma: higher than
+patients with 0.11449875682592392
+on curbing 0.11239480972290039
+25 years had 0.0952286645770073
+
+Synonyms for lemma: the age
+before the 0.11277498304843903
+PA diagnosed 0.09775636345148087
+diagnosed before 0.09599216282367706
+
+Synonyms for lemma: with a
+cases having 0.1260920912027359
+both the 0.11216060817241669
+type of 0.11210954189300537
+
+Synonyms for lemma: increased risk
+out a 0.11043328791856766
+a major 0.10192438960075378
+potent DEM 0.10142765939235687
+
+Synonyms for lemma: history of
+patients with 0.12667159736156464
+as dual 0.10190664231777191
+with prolactinoma 0.09837409108877182
+
+Synonyms for lemma: systemic therapy
+is a 0.14655472338199615
+variable molecular 0.11847060918807983
+contraception users. 0.1036258265376091
+
+Synonyms for lemma: neuropathic breast
+This study 0.1393124908208847
+value and 0.11999247223138809
+and clinical 0.1160590872168541

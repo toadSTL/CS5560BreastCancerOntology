@@ -1,0 +1,1 @@
+PREDICT is a widely used online prognostication and treatment benefit tool for patients with early stage breast cancer. The aim of this study was to conduct an independent validation exercise of the most up-to-date version of the PREDICT algorithm (version 2) using real-world outcomes from the Scottish population of women with breast cancer.

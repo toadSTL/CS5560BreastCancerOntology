@@ -1,0 +1,1 @@
+The MRI Breast Imaging-Reporting and Data System (BI-RADS) lexicon recommends that a breast MRI protocol contain T

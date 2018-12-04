@@ -1,0 +1,13 @@
+Disease,lungCancer
+Disease,cancer
+Disease,breastCancerDiagnosis
+Disease,lungCancer
+Disease,tumour
+Disease,acromegaly
+Disease,colorectalCancer
+Disease,seromaProduction
+Disease,breastCancer
+Disease,breastCancer
+Disease,breastCancer
+Disease,AION
+Disease,TNBC

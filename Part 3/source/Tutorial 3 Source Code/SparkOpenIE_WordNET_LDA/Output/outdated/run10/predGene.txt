@@ -1,0 +1,15 @@
+frequentlyOverexpressedIn,Gene,Disease,Func
+overexpressedIn,Gene,Disease,Func
+frequentlyOverexpressedIn,Gene,Disease,Func
+overexpressedIn,Gene,Disease,Func
+frequentlyOverexpressedIn,Gene,Disease,Func
+overexpressedIn,Gene,Disease,Func
+frequentlyOverexpressedIn,Gene,Disease,Func
+overexpressedIn,Gene,Disease,FuncoverexpressedIn,Gene,Other,Func
+frequentlyOverexpressedIn,Gene,Other,Func
+overexpressedIn,Gene,Other,Func
+frequentlyOverexpressedIn,Gene,Other,Func
+overexpressedIn,Gene,Other,Func
+frequentlyOverexpressedIn,Gene,Other,Func
+overexpressedIn,Gene,Other,Func
+frequentlyOverexpressedIn,Gene,Other,Func

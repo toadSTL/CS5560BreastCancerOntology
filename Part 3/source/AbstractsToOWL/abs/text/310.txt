@@ -1,0 +1,1 @@
+Conventional diffusion-weighted imaging (DWI) with high b-values may improve lesion conspicuity, but with a low signal intensity and thus a low signal-to-noise ratio (SNR). The voxelwise computed DWI (vcDWI) may generate high-quality images with a strong lesion signal and low background.

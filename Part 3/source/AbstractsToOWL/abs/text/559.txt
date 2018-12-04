@@ -1,0 +1,1 @@
+The only available predictive models for the outcome of breast cancer patients in New Zealand (NZ) are based on data in other countries. We aimed to develop and validate a predictive model using NZ data for this population, and compare its performance to a widely used overseas model, the Nottingham Prognostic Index (NPI).

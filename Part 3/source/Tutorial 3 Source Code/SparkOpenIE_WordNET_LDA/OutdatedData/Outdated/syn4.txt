@@ -1,0 +1,22 @@
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+migraine:cluster headache,hemicrania,histamine headache,megrim,sick headache,sinus headache,tension headache
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+lower:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+risk:campaign,cause,chance,conditional probability,contingent probability,crapshoot,cross section,crusade,danger,drive
+developing:blowing,data processing,development,purification,refinement,refining,underdevelopment,vulcanisation,vulcanization
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+but:just,merely,only,simply
+conflicting:at odds,contradictory,inconsistent,opposed,self-contradictory
+noted:celebrated,famed,famous,far-famed,illustrious,known,notable,noticeable,renowned
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+cohort:Four Hundred,age bracket,age group,aged,ancients,attendance,baffled,blind,blood,brave
+association:AARP,ASEAN,American Baptist Convention,American Legion,Association for the Advancement of Retired Persons,Association of Southeast Asian Nations,Fabian Society,Girl Scouts,LTM,NGO
+between:'tween,betwixt
+migraine:cluster headache,hemicrania,histamine headache,megrim,sick headache,sinus headache,tension headache
+breast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+incidence:Tyndall effect,aberration,absorption band,diffraction,distortion,fringe,interference fringe,morbidity,optical aberration,optical illusion
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+nationwide:comprehensive,countrywide
+cohort:Four Hundred,age bracket,age group,aged,ancients,attendance,baffled,blind,blood,brave

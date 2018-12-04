@@ -1,0 +1,13 @@
+burden:balance,belief,bob,bugaboo,burthen,business,cogitation,concept,conception,connotation
+cancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophila
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+old:Old,age-old,aged,ageing,aging,ancient,anile,antediluvian,antiquated,antique
+aged:cured,elderly,mature,of age,old,older,preserved,ripe,ripened,senior
+years:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,adolescence,adulthood,aeon,age,air alert
+at:Ac,Ar,As,At,B,Bh,Br,C,Cl,Db
+as:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,C
+growing:Krebs citric acid cycle,Krebs cycle,absorption,activity,adaptation,adaption,adjustment,ageing,agglutination,aging
+elderly:aged,young,youth
+population:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+older:aged,elder,elderly,experienced,experient,old,senior,sr.

@@ -1,0 +1,1 @@
+Early diagnosis of triple-negative (TN) breast cancer is important due to its aggressive biological characteristics, poor clinical outcomes, and limited options for therapy. The goal of this study is to evaluate the potential of machine learning with quantitative ultrasound image features for the diagnosis of TN breast cancer.

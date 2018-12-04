@@ -1,0 +1,1 @@
+To develop and validate a radiomic nomogram based on an apparent diffusion coefficient (ADC) map for differentiating benign and malignant lesions in suspicious breast findings classified as Breast Imaging Reporting and Data System (BI-RADS) category 4 on breast magnetic resonance imaging (MRI).

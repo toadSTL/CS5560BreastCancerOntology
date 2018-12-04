@@ -1,0 +1,10 @@
+Disease,chestWallLesions
+Disease,cancer
+Disease,triple-negativeBreastCancers
+Disease,breastCancerDiagnosis
+Disease,breastCancers
+Disease,breastTumor
+Disease,seromaProduction
+Disease,CBC
+Disease,PA
+Disease,breastCancer

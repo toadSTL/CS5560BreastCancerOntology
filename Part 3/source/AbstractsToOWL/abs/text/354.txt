@@ -1,0 +1,1 @@
+SET domain bifurcated 1 (SETDB1) has been widely considered as an oncogene playing a critical role in many human cancers, including breast cancer. Nevertheless, the molecular mechanism by which SETDB1 regulates breast cancer tumorigenesis is still unknown.

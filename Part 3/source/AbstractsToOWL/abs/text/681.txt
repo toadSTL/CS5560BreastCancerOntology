@@ -1,0 +1,1 @@
+The Ki67 Index has been extensively studied as a prognostic biomarker in breast cancer. However, its clinical adoption is largely hampered by the lack of a standardized method to assess Ki67 that limits inter-laboratory reproducibility. It is important to standardize the computation of the Ki67 Index before it can be effectively used in clincial practice.

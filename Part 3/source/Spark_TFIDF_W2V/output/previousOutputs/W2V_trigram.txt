@@ -1,0 +1,100 @@
+
+Synonyms for lemma: patients with PA
+family members was 0.11397717148065567
+with PA diagnosed 0.09507425874471664
+malignancy as they 0.092820905148983
+
+Synonyms for lemma: family history of
+cancer due to 0.11950082331895828
+substantially shorten image 0.10053198784589767
+duration and an 0.10029421001672745
+
+Synonyms for lemma: with PA diagnosed
+higher than patients 0.12418761104345322
+patients with prolactinomas 0.09969224780797958
+PA diagnosed later 0.09896506369113922
+
+Synonyms for lemma: diagnosed before the
+quality and appropriateness 0.11517012864351273
+before the age 0.10191047191619873
+fluorescence (NIRF) imaging 0.09152905642986298
+
+Synonyms for lemma: before the age
+diagnosed before the 0.10191035270690918
+very appealing given 0.1016707643866539
+on stage of 0.09634508937597275
+
+Synonyms for lemma: significantly higher than
+of disease at 0.12381655722856522
+now in multiple 0.1049303412437439
+diagnosis. This study 0.10152692347764969
+
+Synonyms for lemma: the age of
+susceptibility of prolactinoma 0.1110471785068512
+with patients with 0.10552764683961868
+cases with asymptomatic 0.1029115840792656
+
+Synonyms for lemma: a history of
+with only a 0.11646383255720139
+diagnosed with PA 0.08273116499185562
+in relatives of 0.07818467915058136
+
+Synonyms for lemma: PA diagnosed later
+with PA diagnosed 0.09896516054868698
+for each breast 0.08836231380701065
+of prolactinoma and 0.0879516452550888
+
+Synonyms for lemma: family members was
+very rare case 0.12280716001987457
+patients with PA 0.11397714912891388
+for patients with 0.0968107208609581
+
+Synonyms for lemma: did not report
+discovery and an 0.12029729038476944
+sensitive test for 0.09421435743570328
+a strong family 0.08830592781305313
+
+Synonyms for lemma: in family members
+the issues of 0.0919894129037857
+being investigated for 0.08923667669296265
+negative family history 0.08481582999229431
+
+Synonyms for lemma: a very rare
+and reproducibility studies 0.11276961863040924
+inception to January 0.10892260819673538
+of a marked 0.10877829790115356
+
+Synonyms for lemma: patients with prolactinoma
+confirmed that subtype-specific 0.11113786697387695
+agreement with its 0.10894665122032166
+at higher risk 0.10778740048408508
+
+Synonyms for lemma: diagnosed later in
+Overall 46.6% of 0.10924182087182999
+in invasive breast 0.09048322588205338
+the age of 0.08869532495737076
+
+Synonyms for lemma: not report on
+with a history 0.11950705945491791
+of disease at 0.10513683408498764
+with pituitary adenomas 0.09249247610569
+
+Synonyms for lemma: with a history
+study did not 0.12522362172603607
+not report on 0.11950697749853134
+breast cancer. To 0.10170553624629974
+
+Synonyms for lemma: breast and lung
+p = 0.02; colon cancer: 0.10557866841554642
+(7.0% p = 0.049). Colorectal 0.09623847901821136
+whole breast cancer 0.09357144683599472
+
+Synonyms for lemma: than patients with
+who presented with 0.12291957437992096
+prior to surgery. 0.10608046501874924
+patients without distant 0.0960049107670784
+
+Synonyms for lemma: in families of
+be associated with 0.11979132890701294
+with a history 0.09909699112176895
+in the long 0.09084322303533554

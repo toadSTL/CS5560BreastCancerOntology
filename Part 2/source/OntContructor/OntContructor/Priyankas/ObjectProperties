@@ -1,0 +1,10 @@
+diagnosedwith,Species,Disease,Func
+iswith,Species,Disease,Func
+inhibits,Other,Disease,Func
+iswith,Species,Gene,Func
+blockedexpressionin,Chemical,Gene,Func
+resultsin,Gene,Disease,Func
+iscorrelatedwith,Gene,Disease,Func
+bindsto,Gene,Gene,Func
+issignificantlycorrelatedwith,Gene,Disease,Func
+causeof,Disease,Disease,Func

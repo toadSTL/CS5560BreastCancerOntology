@@ -1,0 +1,1 @@
+Design of phantoms for use in radiotherapy should consider the complex geometry of breast tissue and inhomogeneity. The aim of this study is design of a slab phantom for breast dosimetry applications.

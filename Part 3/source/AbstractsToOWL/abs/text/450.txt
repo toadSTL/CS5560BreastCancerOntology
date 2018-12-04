@@ -1,0 +1,1 @@
+Real-world data on patients with cancer developing secondary malignancies such as myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) are lacking. This study assessed the incidence and impact of select DNA-damaging therapy exposure on risk of secondary MDS and AML in patients with ovarian cancer (OC) or breast cancer (BC).

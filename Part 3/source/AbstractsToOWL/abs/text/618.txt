@@ -1,0 +1,1 @@
+Computer-aided diagnosis (CAD) combining mammographic features from cranio-caudal (CC) and medio-lateral-oblique (MLO) views improve the diagnostic performance of breast cancer. This could help doctors incorrect diagnosis at the earlier stage thereby reducing mortality.

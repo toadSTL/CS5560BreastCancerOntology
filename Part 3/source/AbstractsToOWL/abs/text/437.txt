@@ -1,0 +1,1 @@
+Kita-Kyushu lung cancer antigen-1 (KK-LC-1) is a cancer/testis antigen and predominant target for cancer immunotherapy. Its detection is only established based on gene expression. In this study, we established a monoclonal antibody against KK-LC-1 to detect its protein expression in formalin-fixed samples.

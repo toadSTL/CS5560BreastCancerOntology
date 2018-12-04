@@ -1,0 +1,1 @@
+To describe the mortality experience of women who die of breast cancer in the 20-year period post-diagnosis using various metrics, including annual mortality rates, Kaplan-Meier survival curves and time-to-death histograms.

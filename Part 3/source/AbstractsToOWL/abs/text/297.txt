@@ -1,0 +1,1 @@
+Liquid biopsies using circulating tumor DNA (ctDNA) and cell-free DNA (cfDNA) have been developed for early cancer detection and patient monitoring. To investigate the clinical usefulness of ctDNA aberrations and cfDNA levels in patients with breast cancer (BC), we conducted a meta-analysis of 69 published studies on 5736 patients with BC.

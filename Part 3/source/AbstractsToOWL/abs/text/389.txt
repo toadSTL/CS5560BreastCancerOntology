@@ -1,0 +1,1 @@
+The Clinical Practice Research Datalink (CPRD) is a large electronic dataset of primary care medical records. For the purpose of epidemiological studies, it is necessary to ensure accuracy and completeness of cancer diagnoses in CPRD.

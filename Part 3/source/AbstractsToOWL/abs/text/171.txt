@@ -1,0 +1,1 @@
+Fusion genes are known to be drivers of many common cancers, so they are potential markers for diagnosis, prognosis or therapy response. The advent of paired-end RNA sequencing enhances our ability to discover fusion genes. While there are available methods, routine analyses of large number of samples are still limited due to high computational demands.

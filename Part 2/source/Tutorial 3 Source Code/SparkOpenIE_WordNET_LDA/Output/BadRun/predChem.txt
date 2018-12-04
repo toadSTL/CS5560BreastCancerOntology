@@ -1,0 +1,17 @@
+cause,Chemical,Disease,Func
+
+
+
+
+has,Chemical,Other,Func
+contributeTo,Chemical,Restoration,Func
+exert,Chemical,Other,Func
+has,Chemical,Purpose,Func
+is,Chemical,Utilized,Func
+inhibited,Chemical,Other,Func
+treat,Chemical,Other,Func
+increase,Chemical,Nonparticipation,Func
+wasIn,Chemical,Adult,Func
+wasIn,Chemical,Purpose,Func
+hasRoleIn,Chemical,Entry,Func
+inhibited,Chemical,Provider,Func
